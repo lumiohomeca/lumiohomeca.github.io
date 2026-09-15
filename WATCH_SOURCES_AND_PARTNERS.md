@@ -21,6 +21,21 @@ Do not use a product image simply because it is visible on a retailer or brand p
 | Hamilton Khaki Field Mechanical H69439931 | Official Hamilton reference page | Needs an explicit asset licence or press confirmation | Needs explicit social permission | Request or locate an official press asset with scope |
 | Longines Conquest L3.720.4.52.9 | Official Longines reference page | Needs an explicit asset licence or press confirmation | Needs explicit social permission | Request or locate an official press asset with scope |
 | Tissot PRX Powermatic 80 T137.407.11.051.00 | Official Tissot page / press room | Press assets must be checked for website scope | Do not use until social permission is confirmed | Ask Tissot press team only when Lumio is ready |
+| Timex Marlin Hand-Wound Reissue | Timex press archive | Press imagery is available; usage scope not stated | Needs explicit social permission | Keep as priority editorial candidate |
+| Timex M79 Automatic | Timex press archive | Press imagery is available; usage scope not stated | Needs explicit social permission | Keep as priority editorial candidate |
+| G-SHOCK GMC-B2100D-1A | Casio press release | Press release includes product visuals; usage scope not stated | Needs explicit social permission | Keep as priority editorial candidate |
+| Casio Vintage AE-1200WHD-1AV | Casio FUTURE CLASSIC press release | Press release includes product visuals; usage scope not stated | Needs explicit social permission | Keep as affordable-history candidate |
+
+## Next editorial shortlist — Timex & Casio
+
+These references are selected because they combine a clear story, recognisable design and an official press source. They are **not** approved for social-image publication yet.
+
+| Priority | Reference | Why Lumio should cover it | Editorial angle | Official source |
+|---|---|---|---|---|
+| 1 | Timex Marlin Hand-Wound Reissue | Dress-watch heritage at an accessible entry point | How a manual, mid-century watch changes a simple evening outfit | Timex Fall/Winter press archive |
+| 2 | Timex M79 Automatic | Familiar vintage silhouette with an automatic movement | The approachable collector's automatic for weekends and travel | Timex press archive |
+| 3 | G-SHOCK GMC-B2100D-1A | Full-metal 2100 design with a technical chronograph story | When a G-SHOCK can work with tailoring, travel and city wear | Casio GMC-B2100 press release |
+| 4 | Casio AE-1200WHD-1AV | Iconic low-cost digital watch with genuine design history | Why an inexpensive world-time digital deserves a place in a considered collection | Casio FUTURE CLASSIC press release |
 
 ### Reusable process
 
