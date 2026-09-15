@@ -11,6 +11,25 @@ Status: research only. No affiliate program is integrated and no commercial link
 
 Each product page will show a **last verified date** and a dedicated sources section. A claim that cannot be substantiated remains unpublished.
 
+## Image-rights workflow
+
+Do not use a product image simply because it is visible on a retailer or brand page. Record the source and intended permission before publication.
+
+| Reference | Brand source | Website image status | Instagram image status | Next action |
+|---|---|---|---|---|
+| Seiko 5 Sports SRPL83 | Official Seiko reference page | Needs an explicit asset licence or press confirmation | Needs explicit social permission | Request or locate an official press asset with scope |
+| Hamilton Khaki Field Mechanical H69439931 | Official Hamilton reference page | Needs an explicit asset licence or press confirmation | Needs explicit social permission | Request or locate an official press asset with scope |
+| Longines Conquest L3.720.4.52.9 | Official Longines reference page | Needs an explicit asset licence or press confirmation | Needs explicit social permission | Request or locate an official press asset with scope |
+| Tissot PRX Powermatic 80 T137.407.11.051.00 | Official Tissot page / press room | Press assets must be checked for website scope | Do not use until social permission is confirmed | Ask Tissot press team only when Lumio is ready |
+
+### Reusable process
+
+1. Publish the editorial guide with facts from the brand's exact reference page.
+2. Search the brand press room for an asset matching that exact reference and note its stated licence.
+3. If the licence clearly includes the placement, store the source URL, credit line and date checked here.
+4. If the licence is unclear, use no product image and do not post it on Instagram.
+5. Request permission only for a small, high-priority brand shortlist; do not repeat outreach for every reference.
+
 ## Potential partners — Canadian-relevant shortlist
 
 | Partner | Role | What is confirmed | What must be confirmed before use |
