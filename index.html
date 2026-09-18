@@ -10,6 +10,7 @@
 .hero-watch:before{display:none}.lumio-emblem{position:absolute;z-index:1;top:58px;left:50%;transform:translateX(-50%);width:min(72%,440px);aspect-ratio:1;object-fit:contain;filter:drop-shadow(0 28px 45px #0009)}
 .watch-thumb.concept-thumb{overflow:hidden;background:#171512}.watch-thumb.concept-thumb img{width:100%;height:100%;display:block;object-fit:cover;opacity:.92}.watch-thumb.concept-thumb span{position:absolute;left:12px;bottom:11px;padding:5px 7px;background:#10100fcc;color:#eee9dfe6;font-size:8px;letter-spacing:.12em;text-transform:uppercase}
 .card>a{display:flex;flex:1;flex-direction:column;cursor:pointer}.card .meta{cursor:pointer}.card .meta:after{content:"Open guide & current price →";display:block;margin-top:9px;color:var(--paper);font-size:9px;font-weight:bold;letter-spacing:.12em;text-transform:uppercase}.card>a:hover .meta:after{color:var(--gold)}
+.card.is-hidden{display:none}.filters .filter.active{background:var(--paper);border-color:var(--paper);color:var(--ink)}
 </style>
 </head>
 <body>
@@ -247,6 +248,25 @@
 </div>
 </section>
 </main>
+<script>
+(() => {
+  const catalogue = {
+    'Seiko 5 Sports SRPL83':['automatic','CAD 500–700'], 'Hamilton Khaki Field Mechanical 38':['field','CAD 700–2,000'], 'Longines Conquest 38':['automatic dress','CAD 2,000–10,000'], 'Tissot PRX Powermatic 80':['automatic dress','CAD 700–2,000'], 'G-SHOCK GMC-B2100D-1A':['chronograph','CAD 700–2,000'], 'Q Timex 1978 Day/Date':['dress','CAD 200–499'], 'G-SHOCK GM-2100-1A':['sport','CAD 200–499'], 'Citizen Corso AT2141‑52L':['dress chronograph','CAD 200–499'], 'Bulova Marine Star 98B301':['diver chronograph','CAD 500–700'], 'Bulova Marine Star 98B471':['automatic diver','CAD 500–700'], 'Tissot PR 100 41 mm':['dress chronograph','CAD 500–700'], 'Bulova Lunar Pilot 96B251':['chronograph','CAD 700–2,000'], 'Citizen TSUYOSA NJ0150-56E':['automatic dress','CAD 500–700'], 'Hamilton Jazzmaster Viewmatic H32515555':['automatic dress','CAD 700–2,000'], 'Citizen Series8 831 NB6050-51W':['automatic dress','CAD 700–2,000']
+  };
+  const cards = [...document.querySelectorAll('.grid .card')];
+  cards.forEach(card => { const key = card.querySelector('h3').textContent.replace(/\s+/g,' ').trim(); const [type, price] = catalogue[key] || ['other','other']; card.dataset.type = type; card.dataset.price = price; });
+  const filterRows = [...document.querySelectorAll('.filters')];
+  const filters = [...document.querySelectorAll('.filters .filter')];
+  let type = 'all', price = 'all';
+  const update = () => cards.forEach(card => card.classList.toggle('is-hidden', !((type === 'all' || card.dataset.type.includes(type)) && (price === 'all' || card.dataset.price === price))));
+  filters.forEach(button => button.addEventListener('click', () => {
+    const label = button.textContent.trim();
+    if (label.startsWith('CAD ')) { price = label; filterRows[1].querySelectorAll('.filter').forEach(item => item.classList.toggle('active', item === button)); }
+    else { type = label === 'All watches' ? 'all' : label.toLowerCase(); filterRows[0].querySelectorAll('.filter').forEach(item => item.classList.toggle('active', item === button)); }
+    update();
+  }));
+})();
+</script>
 <footer class="shell footer">
 <span>LUMIO WATCHES · Independent editorial discovery</span>
 <span>Sources, seller classifications and affiliate disclosures will appear before a purchase link.</span>
