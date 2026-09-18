@@ -36,24 +36,3 @@ const details = {
   "When to walk away.": "The ability to decline a watch is a collector’s advantage. Walk away if the reference does not match the photos, if a seller avoids straightforward questions, if the story changes, or if the urgency feels manufactured. Unusually low prices demand unusually clear explanations, not blind optimism. For pre-owned pieces, poor images, missing caseback views and vague service claims are reasons to pause. There will always be another watch, often a better one. Keep your budget and standards visible before you start browsing. Patience protects both your money and the pleasure of discovering a piece you can genuinely trust."
 };
 window.academyDetails = details;
-
-document.querySelectorAll(".lesson").forEach((lesson) => {
-  const title = lesson.querySelector("h2")?.textContent.trim();
-  const summary = lesson.querySelector("p");
-  if (!title || !summary || !details[title]) return;
-  const expanded = document.createElement("p");
-  expanded.textContent = details[title];
-  const practice = document.createElement("p");
-  practice.innerHTML = "<b>Practical application:</b> use this lesson while evaluating a real reference: read the official manual, write down the relevant details, and compare them with your intended use. Revisit those notes after a few weeks of wear; that is when a specification becomes genuine value.";
-  lesson.insertBefore(expanded, lesson.querySelector(".cta"));
-  lesson.insertBefore(practice, lesson.querySelector(".cta"));
-  const heading = lesson.querySelector("h2");
-  if (heading && !heading.querySelector("a")) {
-    const link = document.createElement("a");
-    link.href = `lesson.html?topic=${encodeURIComponent(title)}`;
-    link.textContent = title;
-    link.style.color = "inherit";
-    link.style.textDecoration = "none";
-    heading.replaceChildren(link);
-  }
-});
