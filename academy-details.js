@@ -35,6 +35,7 @@ const details = {
   "Insurance and secure storage.": "As your collection grows, create a simple record for every watch: reference, serial, photographs, purchase date, price, receipt and service history. Store digital copies separately from the watch itself. Ask an insurance professional whether your existing policy covers jewellery and watches away from home, and understand any appraisal requirements. At home, keep watches dry, protected from direct sun and away from strong magnets or casual access. A safe or secure cabinet can be sensible for valuable pieces, but daily practical security matters too. Documentation and careful storage reduce stress and make any future claim or sale much easier.",
   "When to walk away.": "The ability to decline a watch is a collector’s advantage. Walk away if the reference does not match the photos, if a seller avoids straightforward questions, if the story changes, or if the urgency feels manufactured. Unusually low prices demand unusually clear explanations, not blind optimism. For pre-owned pieces, poor images, missing caseback views and vague service claims are reasons to pause. There will always be another watch, often a better one. Keep your budget and standards visible before you start browsing. Patience protects both your money and the pleasure of discovering a piece you can genuinely trust."
 };
+window.academyDetails = details;
 
 document.querySelectorAll(".lesson").forEach((lesson) => {
   const title = lesson.querySelector("h2")?.textContent.trim();
@@ -46,4 +47,13 @@ document.querySelectorAll(".lesson").forEach((lesson) => {
   practice.innerHTML = "<b>Practical application:</b> use this lesson while evaluating a real reference: read the official manual, write down the relevant details, and compare them with your intended use. Revisit those notes after a few weeks of wear; that is when a specification becomes genuine value.";
   lesson.insertBefore(expanded, lesson.querySelector(".cta"));
   lesson.insertBefore(practice, lesson.querySelector(".cta"));
+  const heading = lesson.querySelector("h2");
+  if (heading && !heading.querySelector("a")) {
+    const link = document.createElement("a");
+    link.href = `lesson.html?topic=${encodeURIComponent(title)}`;
+    link.textContent = title;
+    link.style.color = "inherit";
+    link.style.textDecoration = "none";
+    heading.replaceChildren(link);
+  }
 });
