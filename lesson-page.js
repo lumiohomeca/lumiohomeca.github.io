@@ -29,9 +29,11 @@ const studyNotes = {
 };
 const level = detail ? levelFor(topic) : "Academy";
 const sources = sourceSets[level] || [];
+const visuals = { Beginner: "academy-assets/academy-study-hero-v1.png", Intermediate: "academy-assets/academy-intermediate-v1.png", Collector: "academy-assets/academy-collector-v1.png" };
 document.title = detail ? `${topic} · Lumio Watch Academy` : "Lesson not found · Lumio Watch Academy";
 document.querySelector("#lesson").innerHTML = detail ? `
   <section class="hero"><div class="eyebrow">Lumio Watch Academy · ${level}</div><h1>${topic}</h1><p>Complete lesson with context, practical application and sources for further study.</p></section>
+  <img class="lesson-visual" src="${visuals[level]}" alt="Horology study illustration for ${level} level">
   <section class="section"><h2>The lesson</h2><p class="copy">${detail}</p></section>
   <section class="section"><div class="eyebrow">How to study it</div><h2>Put the idea into practice.</h2><p class="copy">${studyNotes[level]}</p></section>
   <section class="section"><div class="eyebrow">Sources & further reading</div><h2>Keep exploring.</h2><p class="copy">Lumio is an independent educational guide. These links are provided to help you verify terms and go deeper with specialist and official resources.</p><div class="sources">${sources.map(([name,url,description]) => `<a class="source" href="${url}" target="_blank" rel="noopener"><b>${name}</b><span>${description}</span></a>`).join("")}</div></section>
