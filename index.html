@@ -251,13 +251,10 @@
 <script>
 (() => {
   const cards = [...document.querySelectorAll('.grid .card')];
-  const priceBand = amount => amount < 500 ? 'CAD 200–499' : amount <= 700 ? 'CAD 500–700' : amount <= 2000 ? 'CAD 700–2,000' : amount <= 10000 ? 'CAD 2,000–10,000' : 'CAD 10,000+';
-  cards.forEach(card => {
-    const description = card.querySelector('.eyebrow').textContent.toLowerCase();
-    const priceText = card.querySelector('.meta strong').textContent.replace(/[^0-9.]/g,'');
-    card.dataset.type = description;
-    card.dataset.price = priceBand(Number(priceText));
-  });
+  const categories = [
+    ['automatic','CAD 500–700'], ['field','CAD 700–2,000'], ['automatic dress','CAD 2,000–10,000'], ['automatic dress','CAD 700–2,000'], ['chronograph','CAD 700–2,000'], ['dress','CAD 200–499'], ['sport','CAD 200–499'], ['dress chronograph','CAD 200–499'], ['diver chronograph','CAD 500–700'], ['automatic diver','CAD 500–700'], ['dress chronograph','CAD 500–700'], ['chronograph','CAD 700–2,000'], ['automatic dress','CAD 500–700'], ['automatic dress','CAD 700–2,000'], ['automatic dress','CAD 700–2,000']
+  ];
+  cards.forEach((card, index) => { const [type, price] = categories[index]; card.dataset.type = type; card.dataset.price = price; });
   const filterRows = [...document.querySelectorAll('.filters')];
   const filters = [...document.querySelectorAll('.filters .filter')];
   let type = 'all', price = 'all';
