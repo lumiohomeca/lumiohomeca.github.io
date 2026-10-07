@@ -59,3 +59,18 @@ const analytics = document.createElement('script');
 analytics.src = '../analytics.js';
 analytics.defer = true;
 document.head.appendChild(analytics);
+
+if (item && /\d/.test(item.price)) {
+  const productSchema = document.createElement('script');
+  productSchema.type = 'application/ld+json';
+  productSchema.textContent = JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: `${item.name} ${item.reference}`,
+    description: item.lead,
+    url: location.href.split('?')[0],
+    brand: { '@type': 'Brand', name: item.name.split(' ')[0] },
+    offers: { '@type': 'Offer', priceCurrency: 'CAD', price: item.price.replace(/[^\d.]/g, ''), url: item.source }
+  });
+  document.head.appendChild(productSchema);
+}
