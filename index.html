@@ -344,3 +344,5 @@
 </html>
 
 <script>document.addEventListener("DOMContentLoaded",()=>{const links=document.querySelector(".quick-links");if(links&&!document.querySelector("[data-watch-finder]")){const finder=document.createElement("a");finder.href="watch-finder.html";finder.className="primary";finder.dataset.watchFinder="true";finder.textContent="Find your watch";links.insertBefore(finder,links.children[1]||null);}});</script>
+
+<script>document.addEventListener("DOMContentLoaded",()=>{const cta=document.querySelector(".hero-copy .cta");if(cta&&!document.querySelector("[data-finder-cta]")){const finder=document.createElement("a");finder.href="watch-finder.html";finder.className="cta";finder.dataset.finderCta="true";finder.textContent="Find your watch →";finder.style.marginLeft="12px";finder.style.background="#b99153";finder.style.color="#10100f";cta.insertAdjacentElement("afterend",finder);}});</script>
