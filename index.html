@@ -361,6 +361,28 @@
 </main>
 <script>
 (() => {
+  const grid = document.querySelector('.grid');
+  if (!grid || document.getElementById('rado-store-sightings')) return;
+  const cards = [
+    ['rado-captain-cook-burgundy-r32223408.html','rado-captain-cook-burgundy-store-v3.jpg','Swiss automatic diver · C$2,000–4,999','Rado Captain Cook<br>R32223408','A 39 mm burgundy-gradient Swiss diver with 80-hour automatic reserve, sapphire crystal and a vintage rice-grain bracelet.','C$3,800','Official Rado Canada · verified 16 Oct 2026'],
+    ['rado-captain-cook-blue-rice-grain.html','rado-captain-cook-blue-mesh-store-v4.jpg','Store sighting · Rado','Rado Captain Cook<br>Blue rice-grain','A blue Captain Cook photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-captain-cook-blue-steel.html','rado-captain-cook-blue-steel-store-v3.jpg','Store sighting · Rado','Rado Captain Cook<br>Blue steel','A blue steel Captain Cook photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-captain-cook-green-gold.html','rado-captain-cook-green-gold-store-v3.jpg','Store sighting · Rado','Rado Captain Cook<br>Green and gold','A green-and-gold Captain Cook photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-captain-cook-green-rice-grain.html','rado-captain-cook-green-rice-grain-store.jpg','Store sighting · Rado','Rado Captain Cook<br>Green rice-grain','A green Captain Cook photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-hyperchrome-silver-store.html','rado-hyperchrome-silver-store.jpg','Store sighting · Rado','Rado HyperChrome<br>Silver dial','A silver-dial Rado HyperChrome photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-jubile-black-store.html','rado-jubile-black-steel-store.jpg','Store sighting · Rado','Rado Jubilé<br>Black dial','A black-dial Rado Jubilé photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-ceramica-black-gold-store.html','rado-ceramica-black-gold-store.jpg','Store sighting · Rado','Rado rectangular<br>Black and gold','A black-dial rectangular Rado photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026'],
+    ['rado-classic-white-gold-store.html','rado-ceramica-black-round-store.jpg','Store sighting · Rado','Rado classic<br>White and gold','A white-dial Rado photographed by Lumio in store. Exact reference and price are being verified before a buying link is added.','Reference pending','Original Lumio store photograph · 16 Oct 2026']
+  ];
+  const holder = document.createElement('div');
+  holder.id = 'rado-store-sightings';
+  holder.style.display = 'contents';
+  holder.innerHTML = cards.map(([url,image,eyebrow,title,description,price,note]) => `<article class="card"><a href="watches/${url}"><div class="watch-thumb concept-thumb"><img src="watch-assets/store-photos/${image}" alt="${title.replace(/<br>/g, ' ')} photographed by Lumio"><span>Original Lumio store photo</span></div><div class="eyebrow">${eyebrow}</div><h3>${title}</h3><p>${description}</p><div class="meta"><strong>${price}</strong><br>${note}</div></a></article>`).join('');
+  grid.appendChild(holder);
+})();
+</script>
+<script>
+(() => {
   const cards = [...document.querySelectorAll('.grid .card')];
   cards.filter(card => card.querySelector('img')?.getAttribute('src')?.includes('/oct-21/') && card.dataset.verified !== 'true').forEach(card => {
     const label = card.querySelector('.watch-thumb span');
