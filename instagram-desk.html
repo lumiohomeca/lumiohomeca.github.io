@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Lumio's editorial Instagram desk: current releases, archive context and store-sighting research.">
+  <meta name="robots" content="noindex,follow">
+  <title>Lumio Instagram Desk</title>
+  <style>
+    :root{--ink:#14120f;--panel:#1f1c18;--paper:#f2eadf;--muted:#b8aa99;--gold:#c79b5b;--line:#ffffff25;--archive:#9fbed4;--research:#d0a2ba}*{box-sizing:border-box}body{margin:0;background:var(--ink);color:var(--paper);font:15px/1.55 Arial,sans-serif}a{color:inherit}.shell{max-width:1440px;margin:auto;padding:0 5vw}.top{padding:20px 0;border-bottom:1px solid var(--line);font-size:11px;letter-spacing:.12em;text-transform:uppercase}.hero{padding:66px 0 42px;display:grid;grid-template-columns:1.2fr .8fr;gap:44px}.ey{color:var(--gold);font-size:10px;letter-spacing:.18em;text-transform:uppercase}.hero h1{font:clamp(47px,7vw,96px)/.9 Georgia,serif;font-weight:400;letter-spacing:-.055em;margin:14px 0 20px}.hero p{max-width:630px;color:var(--muted);font-size:17px}.principles{border:1px solid var(--line);background:var(--panel);padding:24px}.principles b{display:block;font:21px/1.1 Georgia,serif;font-weight:400;margin-bottom:13px}.principles p{font-size:13px;margin:0 0 10px}.filters{display:flex;flex-wrap:wrap;gap:8px;padding:0 0 26px}.filter{cursor:pointer;background:transparent;border:1px solid var(--line);color:var(--paper);padding:10px 13px;font:10px Arial;letter-spacing:.12em;text-transform:uppercase}.filter.active,.filter:hover{background:var(--paper);border-color:var(--paper);color:var(--ink)}.summary{padding:16px 0 22px;border-top:1px solid var(--line);color:var(--muted)}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}.card{background:var(--panel);display:flex;flex-direction:column}.card.is-hidden{display:none}.card img{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;background:#171512;padding:10px}.card-body{display:flex;flex-direction:column;gap:13px;padding:22px;flex:1}.track{font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold)}.track.archive{color:var(--archive)}.track.research{color:var(--research)}.card h2{font:29px/1 Georgia,serif;font-weight:400;margin:0}.reference{color:var(--muted);font-size:12px}.facts{font-size:12px;color:var(--muted);margin:0}.price{font:24px/1.05 Georgia,serif;color:#f2cd8e;margin-top:auto}.caption{font-size:12px;line-height:1.55;white-space:pre-line;border-top:1px solid var(--line);padding-top:14px;color:#ded5c8}.actions{display:flex;gap:8px;flex-wrap:wrap}.button{border:1px solid var(--gold);background:transparent;color:var(--paper);padding:10px 11px;font:9px Arial;letter-spacing:.12em;text-transform:uppercase;cursor:pointer;text-decoration:none}.button:hover{background:var(--gold);color:var(--ink)}.footer{margin-top:42px;padding:30px 0;border-top:1px solid var(--line);color:var(--muted);font-size:12px}.status{font-size:11px;color:var(--gold)}@media(max-width:900px){.hero{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:620px){.grid{grid-template-columns:1fr}.hero{padding-top:44px}}
+  </style>
+</head>
+<body>
+  <header class="shell top"><a href="index.html">← Lumio Watches</a></header>
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <div class="ey">Editorial content system</div>
+        <h1>Instagram<br>with context.</h1>
+        <p>Every Lumio store photograph now has a distinct editorial route. Current watches explain real retail context. Archive references explain what to verify before assigning a market price. Unconfirmed sightings stay transparent about what is—and is not—known.</p>
+      </div>
+      <aside class="principles">
+        <b>Three content lanes.</b>
+        <p><strong>New &amp; current:</strong> reference, useful specification and current Canadian price context.</p>
+        <p><strong>Archive &amp; pre-owned:</strong> design history, exact reference and value factors—never a guessed resale number.</p>
+        <p><strong>Store sighting:</strong> visual analysis and verification process, without a purchase claim.</p>
+      </aside>
+    </section>
+    <div class="filters" aria-label="Filter Instagram posts">
+      <button class="filter active" data-filter="all">All posts</button>
+      <button class="filter" data-filter="current">New &amp; current</button>
+      <button class="filter" data-filter="archive">Archive &amp; pre-owned</button>
+      <button class="filter" data-filter="research">Store sightings</button>
+    </div>
+    <p class="summary" id="summary"></p>
+    <section class="grid" id="ig-feed" aria-live="polite"></section>
+  </main>
+  <footer class="shell footer">LUMIO WATCHES · Post copy is a working editorial draft. Check current price, availability and seller before any publication.</footer>
+  <script src="watches/store-sighting.js"></script>
+  <script src="instagram-desk.js"></script>
+</body>
+</html>
