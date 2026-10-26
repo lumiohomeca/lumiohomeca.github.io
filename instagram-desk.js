@@ -3,6 +3,8 @@
   const feed = document.querySelector('#ig-feed');
   const summary = document.querySelector('#summary');
   const records = Object.entries(data).map(([slug, item]) => ({slug, item}));
+  const postedKey = 'lumio-instagram-posted-v1';
+  const postedSlugs = new Set(JSON.parse(localStorage.getItem(postedKey) || '[]'));
 
   const trackFor = item => {
     const text = `${item.status} ${item.price} ${item.note}`.toLowerCase();
@@ -15,6 +17,12 @@
     archive: ['Archive & pre-owned context', 'Explain the reference and condition factors; do not present a generic resale price.'],
     research: ['Store sighting · research in progress', 'Use as an honest identification story, never as a purchase or authenticity claim.']
   };
+  const priorityFor = item => ({current: 0, archive: 1, research: 2}[trackFor(item)]);
+  const queue = [...records].sort((a, b) => {
+    const byTrack = priorityFor(a.item) - priorityFor(b.item);
+    return byTrack || a.item.name.localeCompare(b.item.name) || a.item.reference.localeCompare(b.item.reference);
+  });
+  const savePosted = () => localStorage.setItem(postedKey, JSON.stringify([...postedSlugs]));
   const hashtags = item => {
     const type = item.type.toLowerCase();
     if (type.includes('diver')) return '#DiveWatch #WatchDiscovery #CanadianWatches';
@@ -34,22 +42,26 @@
   };
   const detailUrl = slug => `watches/store-sighting.html?watch=${encodeURIComponent(slug)}`;
   const render = active => {
-    const eligible = records.filter(({item}) => active === 'all' || trackFor(item) === active);
-    summary.textContent = `${eligible.length} editorial post${eligible.length === 1 ? '' : 's'} ready for review. Nothing is published to Instagram automatically.`;
+    const eligible = queue.filter(({item}) => active === 'all' || trackFor(item) === active);
+    const ready = eligible.filter(({slug}) => !postedSlugs.has(slug)).length;
+    summary.textContent = `${ready} of ${eligible.length} post${eligible.length === 1 ? '' : 's'} ready in this view. Queue order is locked: one model, one original Lumio photo, no repeat. Nothing is published to Instagram automatically.`;
     feed.innerHTML = eligible.map(({slug, item}) => {
       const track = trackFor(item);
       const [label] = trackCopy[track];
       const image = item.image.replace(/^\.\.\//, '');
       const caption = captionFor(item, track);
-      return `<article class="card" data-track="${track}">
+      const position = queue.findIndex(entry => entry.slug === slug) + 1;
+      const posted = postedSlugs.has(slug);
+      return `<article class="card${posted ? ' posted' : ''}" data-track="${track}">
         <img src="${image}" alt="${item.name} ${item.reference} photographed by Lumio">
         <div class="card-body">
-          <div class="track ${track}">${label}</div>
+          <div class="queue-row"><div class="track ${track}">${label}</div><div class="queue-number">Post ${String(position).padStart(2, '0')} / ${queue.length}</div></div>
           <div><h2>${item.name}</h2><div class="reference">${item.reference}</div></div>
           <p class="facts">${item.facts.map(([value, description]) => `<b>${value}</b> ${description}`).join(' · ')}</p>
           <div class="price">${item.price}</div>
+          <div class="source-lock">${posted ? 'Marked published locally' : 'Source locked · one model · one original photo'}</div>
           <div class="caption">${caption}</div>
-          <div class="actions"><button class="button" type="button" data-copy="${slug}">Copy caption</button><a class="button" href="${detailUrl(slug)}">Open full guide</a></div>
+          <div class="actions"><button class="button" type="button" data-copy="${slug}">Copy caption</button><button class="button status-button" type="button" data-status="${slug}">${posted ? 'Undo published mark' : 'Mark published'}</button><a class="button" href="${detailUrl(slug)}">Open full guide</a></div>
         </div>
       </article>`;
     }).join('');
@@ -61,6 +73,13 @@
       } catch {
         button.textContent = 'Copy unavailable';
       }
+    }));
+    feed.querySelectorAll('[data-status]').forEach(button => button.addEventListener('click', () => {
+      const slug = button.dataset.status;
+      if (postedSlugs.has(slug)) postedSlugs.delete(slug);
+      else postedSlugs.add(slug);
+      savePosted();
+      render(active);
     }));
   };
   document.querySelectorAll('.filter').forEach(button => button.addEventListener('click', () => {
