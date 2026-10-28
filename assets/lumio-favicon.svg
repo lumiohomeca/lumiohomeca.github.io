@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Lumio Watches</title>
+  <rect width="64" height="64" rx="14" fill="#141413"/>
+  <path d="m5 28 13-6c4-7 8-10 14-10s10 3 14 10l13 6v8l-13 6c-4 7-8 10-14 10s-10-3-14-10L5 36z" stroke="#B59A70" stroke-width="2.3" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="15.5" stroke="#B59A70" stroke-width="2"/>
+  <path d="m32 20 8.5 3.5L44 32l-3.5 8.5L32 44l-8.5-3.5L20 32l3.5-8.5z" fill="#701D2B"/>
+  <path d="m32 20 8.5 3.5L32 29l-8.5-5.5z" fill="#A64A59"/>
+  <path d="m40.5 23.5 3.5 8.5-7 5-5-8z" fill="#8B2C40"/>
+  <path d="m44 32-3.5 8.5L32 44l5-7z" fill="#541525"/>
+  <path d="M28.5 26v12h9" stroke="#E6D8BF" stroke-width="2.3"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" role="img" aria-labelledby="lumio-mark-title">
+  <title id="lumio-mark-title">Lumio — the ruby bridge</title>
+  <path d="M7 43.5 26 35c5.6-10 13-16 22-16s16.4 6 22 16l19 8.5v9L70 61c-5.6 10-13 16-22 16s-16.4-6-22-16L7 52.5z" stroke="#B59A70" stroke-width="2.8" stroke-linejoin="round"/>
+  <path d="m14 47.7 13-5.4c-1.5 3.8-1.5 7.6 0 11.4L14 48.3m68-.6-13-5.4c1.5 3.8 1.5 7.6 0 11.4L82 48.3" stroke="#B59A70" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="48" r="21" stroke="#B59A70" stroke-width="2.3"/>
+  <path d="m48 31 12 5 5 12-5 12-12 5-12-5-5-12 5-12z" fill="#701D2B"/>
+  <path d="m48 31 12 5-12 7-12-7z" fill="#A64A59"/>
+  <path d="m60 36 5 12-11 7-6-12z" fill="#8B2C40"/>
+  <path d="m65 48-5 12-12 5 6-10z" fill="#541525"/>
+  <path d="m48 65-12-5-5-12 11 7z" fill="#7E2639"/>
+  <path d="M43 40v16h12" stroke="#E6D8BF" stroke-width="2.5" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
