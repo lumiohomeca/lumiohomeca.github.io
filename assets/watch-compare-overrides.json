@@ -1,0 +1,44 @@
+{
+  "tissot-store-black-powermatic": {
+    "checked": "29 Oct 2026",
+    "source": "https://www.tissotwatches.com/en-ca/T1274071105100.html",
+    "price": {"amount":1195,"context":"C$1,195 official Tissot Canada list price","note":"Official Canadian product page checked 29 October 2026. Price and stock can change."},
+    "fields": {
+      "size":{"value":"40 mm","numeric":40},
+      "thickness":{"value":"11.50 mm","numeric":11.5},
+      "weight":{"value":"164 g","numeric":164},
+      "lugWidth":{"value":"21 mm","numeric":21},
+      "material":{"value":"316L stainless steel","numeric":null},
+      "crystal":{"value":"Sapphire · underside anti-reflective coating","numeric":null},
+      "movement":{"value":"Automatic mechanical","numeric":null},
+      "calibre":{"value":"Powermatic 80","numeric":null},
+      "reserve":{"value":"Up to 80 hours","numeric":80},
+      "water":{"value":"100 m / 10 bar","numeric":100},
+      "strap":{"value":"Steel bracelet","numeric":null},
+      "clasp":{"value":"Butterfly clasp with push-buttons","numeric":null},
+      "functions":{"value":"Date · silicon balance spring · exhibition caseback · luminous hands","numeric":null},
+      "use":{"value":"A polished automatic for work, dinners and everyday wear; the mechanical reserve supports a weekend rotation.","numeric":null}
+    }
+  },
+  "tissot-seastar-1000-blue-t1204101104100-store": {
+    "checked": "29 Oct 2026",
+    "source": "https://www.tissotwatches.com/en-ca/T1204101104100.html",
+    "price": {"amount":625,"context":"C$625 official Tissot Canada list price","note":"Official Canadian product page checked 29 October 2026. Price and stock can change."},
+    "fields": {
+      "size":{"value":"40 mm","numeric":40},
+      "thickness":{"value":"9.97 mm","numeric":9.97},
+      "weight":{"value":"134 g","numeric":134},
+      "lugWidth":{"value":"20 mm","numeric":20},
+      "material":{"value":"316L stainless steel","numeric":null},
+      "crystal":{"value":"Sapphire · anti-reflective coating on both sides","numeric":null},
+      "movement":{"value":"Quartz","numeric":null},
+      "calibre":null,
+      "reserve":null,
+      "water":{"value":"300 m / 30 bar","numeric":300},
+      "strap":{"value":"Steel bracelet · quick-release attachment","numeric":null},
+      "clasp":{"value":"Folding safety clasp with push-buttons","numeric":null},
+      "functions":{"value":"Date · battery end-of-life indicator · timing bezel · screw-down crown and caseback · luminous hands","numeric":null},
+      "use":{"value":"A quartz sports watch for active daily wear, with a thinner case and a higher published water-resistance rating.","numeric":null}
+    }
+  }
+}

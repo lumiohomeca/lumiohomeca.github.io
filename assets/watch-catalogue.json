@@ -1,0 +1,5455 @@
+{
+  "version": 1,
+  "generatedFrom": "Existing Lumio catalogue; individual price dates shown",
+  "watches": [
+    {
+      "id": "breitling-signed-navitimer-b01-46-reference",
+      "name": "Breitling-signed Navitimer display reference",
+      "reference": "Visual identification pending",
+      "type": "Chronograph with slide-rule bezel",
+      "guide": "watches/store-sighting.html?watch=breitling-signed-navitimer-b01-46-reference",
+      "source": "https://www.breitling.com/ca-en/watches/navitimer/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Not a sale listing or authentication. Reference, provenance and authenticity require independent verification."
+      },
+      "fields": {},
+      "lead": "A Breitling-signed chronograph with a slide-rule bezel photographed by Lumio alongside an in-store Navitimer B01 Chronograph 46 display card.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "bulova-lunar-pilot-96b251-store",
+      "name": "Bulova Lunar Pilot",
+      "reference": "96B251",
+      "type": "High-precision quartz space-history chronograph",
+      "guide": "watches/bulova-lunar-pilot-96b251-store.html",
+      "source": "https://www.bulova.com/ca/en/product/96B251.html?redirect=false",
+      "image": "watch-assets/store-photos/crops/bulova-lunar-pilot-96b251.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 796,
+        "currency": "CAD",
+        "context": "C$796 official Bulova Canada sale price (was C$995)",
+        "note": "Bulova Canada listed 96B251 at C$796 on 24 October 2026, reduced from C$995, with direct online checkout. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "45 mm",
+          "numeric": 45
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "50 m",
+          "numeric": 50
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": {
+          "value": "262 kHz",
+          "numeric": null
+        }
+      },
+      "lead": "A black Bulova Lunar Pilot photographed by Lumio in its special-edition presentation case, with a tachymeter scale, three registers and two supplied straps.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller",
+      "aliases": [
+        "bulova-lunar-pilot-96b251"
+      ]
+    },
+    {
+      "id": "bulova-lunar-pilot-96k115-store",
+      "name": "Bulova Lunar Pilot",
+      "reference": "96K115",
+      "type": "High-precision quartz chronograph",
+      "guide": "watches/bulova-lunar-pilot-96k115-store.html",
+      "source": "https://www.bulova.com/ca/en/product/96K115.html?redirect=false",
+      "image": "watch-assets/store-photos/crops/bulova-lunar-pilot-96k115.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "23 Oct 2026",
+      "price": {
+        "amount": 956,
+        "currency": "CAD",
+        "context": "C$956 official Bulova Canada sale price (was C$1,195)",
+        "note": "Bulova Canada listed 96K115 at C$956 on 23 October 2026, reduced from C$1,195. Promotional price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "43.5 mm",
+          "numeric": 43.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": {
+          "value": "262 kHz",
+          "numeric": null
+        }
+      },
+      "lead": "A red-dial Bulova Lunar Pilot photographed by Lumio with its steel bracelet and supplied grey strap.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 23 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "bulova-marine-star-96b272-store",
+      "name": "Bulova Marine Star",
+      "reference": "96B272",
+      "type": "Quartz dive chronograph",
+      "guide": "watches/bulova-marine-star-96b272-store.html",
+      "source": "https://www.bulova.com/ca/en/product/96B272.html?redirect=false",
+      "image": "watch-assets/store-photos/crops/bulova-marine-star-96b272.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 620,
+        "currency": "CAD",
+        "context": "C$620 official Bulova Canada sale price (was C$775)",
+        "note": "Bulova Canada listed 96B272 at C$620 on 24 October 2026, reduced from C$775, with direct online checkout. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "45 mm",
+          "numeric": 45
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black Bulova Marine Star photographed by Lumio, with a ratcheting black bezel, three chronograph registers and a stainless-steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "bulova-marine-star-98b278-store",
+      "name": "Bulova Marine Star",
+      "reference": "98B278",
+      "type": "Quartz six-hand chronograph",
+      "guide": "watches/bulova-marine-star-98b278-store.html",
+      "source": "https://www.bulova.com/ca/en/product/98B278.html?redirect=false",
+      "image": "watch-assets/store-photos/crops/bulova-marine-star-98b278.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 600,
+        "currency": "CAD",
+        "context": "C$600 official Bulova Canada sale price (was C$750)",
+        "note": "Bulova Canada listed 98B278 at C$600 on 24 October 2026, reduced from C$750, with direct online checkout. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "44 mm",
+          "numeric": 44
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Gold-tone steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Rubber / silicone",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black-and-gold Bulova Marine Star photographed by Lumio, with a black silicone strap, gold-tone detailing and a six-hand chronograph display.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "bulova-marine-star-98b301",
+      "name": "Bulova Marine Star 98B301",
+      "reference": "98B301",
+      "type": "Marine chronograph",
+      "guide": "watches/bulova-marine-star-98b301.html",
+      "source": "https://www.bulova.com/ca/en/product/98B301.html?redirect=false",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "17 Sep 2026",
+      "price": {
+        "amount": 618.75,
+        "currency": "CAD",
+        "context": "CAD 618.75",
+        "note": "CAD 618.75 Official Bulova Canada · 6S20 quartz · verified 17 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "45 mm",
+          "numeric": 45
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Mineral crystal",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "6S20",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A large, polished quartz chronograph with a blue dial, rose-gold accents and 200 m water resistance: unapologetically visible, but still grounded in usable daily features.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "bulova-marine-star-98b471",
+      "name": "Bulova Marine Star 98B471",
+      "reference": "98B471",
+      "type": "Automatic diver",
+      "guide": "watches/bulova-marine-star-98b471.html",
+      "source": "https://www.bulova.com/ca/en/product/98B471.html?redirect=false",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "17 Sep 2026",
+      "price": {
+        "amount": 556,
+        "currency": "CAD",
+        "context": "CAD 556",
+        "note": "CAD 556 Official Bulova Canada · 8215 automatic · verified 17 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "41 mm",
+          "numeric": 41
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "42 hours",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "42 hours",
+          "numeric": 42
+        },
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": null,
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A compact green-dial automatic that brings proper dive-watch features—sapphire, screw-down crown and 200 m resistance—to a more polished everyday bracelet watch.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "bulova-green-racer-store",
+      "name": "Bulova Racer",
+      "reference": "98B468",
+      "type": "Quartz five-hand racing chronograph",
+      "guide": "watches/bulova-green-racer-store.html",
+      "source": "https://www.bulova.com/ca/en/product/98B468.html?redirect=false",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 716,
+        "currency": "CAD",
+        "context": "C$716 official Bulova Canada sale price (was C$895)",
+        "note": "Bulova Canada listed 98B468 at C$716 on 24 October 2026, reduced from C$895. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "42 mm",
+          "numeric": 42
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A green Bulova Racer chronograph photographed by Lumio, with twin silver registers, green-and-black tachymeter ring and a steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "caravelle-sea-hunter-44b130",
+      "name": "Caravelle Sea Hunter",
+      "reference": "44B130",
+      "type": "Automatic diver",
+      "guide": "watches/caravelle-sea-hunter-44b130.html",
+      "source": "https://www.bulova.com/ca/en/product/44B130.html?redirect=false",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 450,
+        "currency": "CAD",
+        "context": "CAD 450",
+        "note": "CAD 450 Official Caravelle Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Rose-gold-tone steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": {
+          "value": "42 hours",
+          "numeric": 42
+        },
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Rubber / silicone",
+          "numeric": null
+        },
+        "use": {
+          "value": "Wear it on weekends, holidays and casual city days.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact automatic diver with a high-contrast black dial, rotating bezel and a clear sport-watch purpose.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-santos-chronograph-wssa0017",
+      "name": "Cartier Santos Chronograph",
+      "reference": "WSSA0017",
+      "type": "Luxury automatic chronograph",
+      "guide": "watches/cartier-santos-chronograph-wssa0017.html",
+      "source": "https://www.cartier.com/en-ca/watches/collections/santos-de-cartier/santos-de-cartier-chronograph-watch-CRWSSA0017.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 14800,
+        "currency": "CAD",
+        "context": "CAD 14,800",
+        "note": "CAD 14,800 Official Cartier Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "43.3 mm",
+          "numeric": 43.3
+        },
+        "thickness": {
+          "value": "12.4 mm",
+          "numeric": 12.4
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "1904 CH MC",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Rubber / silicone",
+          "numeric": null
+        },
+        "use": {
+          "value": "Wear it for travel, creative work, city evenings and a wardrobe that benefits from a large, graphic watch.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A Santos that treats the chronograph as part of its architecture: bold, capable and far more technical than the classic three-hand silhouette.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-santos-wssa0096",
+      "name": "Cartier Santos de Cartier",
+      "reference": "WSSA0096",
+      "type": "Luxury automatic dress watch",
+      "guide": "watches/cartier-santos-wssa0096.html",
+      "source": "https://www.cartier.com/en-ca/watches/collections/santos-de-cartier/santos-de-cartier-watch-CRWSSA0096.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 12200,
+        "currency": "CAD",
+        "context": "CAD 12,200",
+        "note": "CAD 12,200 Official Cartier Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39.8 mm",
+          "numeric": 39.8
+        },
+        "thickness": {
+          "value": "9.38 mm",
+          "numeric": 9.38
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "1847 MC",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "Choose it for work, dinners, travel and formal events where you want a watch with cultural weight rather than a purely technical tool.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "An icon with real aviation history: Cartier's square Santos in steel, powered by an automatic movement and finished with two interchangeable straps.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-tank-francaise-w4ta0029",
+      "name": "Cartier Tank Française",
+      "reference": "W4TA0029",
+      "type": "Luxury diamond quartz dress watch",
+      "guide": "watches/cartier-tank-francaise-w4ta0029.html",
+      "source": "https://www.cartier.com/en-ca/watches/collections/tank/tank-francaise-watch-CRW4TA0029.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 12600,
+        "currency": "CAD",
+        "context": "CAD 12,600",
+        "note": "CAD 12,600 Official Cartier Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "25.7 × 21.2 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "3 bar",
+          "numeric": 30
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is strongest at formal events, dinners, celebrations and wardrobes that value clean geometry over large sports cases.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact Cartier Tank that treats a watch as architecture and jewellery at the same time: precision, proportion and a century of design authority.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-round-two-tone-store",
+      "name": "Cartier-signed round automatic",
+      "reference": "Visual identification pending",
+      "type": "Two-tone round automatic",
+      "guide": "watches/cartier-round-two-tone-store.html",
+      "source": "https://www.cartier.com/en-ca/watches/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "This is editorial store photography, not an authentication or sale listing. Lumio will add an exact reference and purchase option only after independent verification."
+      },
+      "fields": {},
+      "lead": "A two-tone round Cartier-signed automatic photographed by Lumio in store, with Roman numerals, blue hands and a date display.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-square-steel-store",
+      "name": "Cartier-signed square automatic",
+      "reference": "Visual identification pending",
+      "type": "Square steel automatic",
+      "guide": "watches/cartier-square-steel-store.html",
+      "source": "https://www.cartier.com/en-ca/watches/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "No price or purchase link is shown until independent reference and authenticity checks are complete."
+      },
+      "fields": {},
+      "lead": "A square Cartier-signed steel automatic photographed by Lumio in store, with Roman-numeral dial, exposed bezel screws and date.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-square-openheart-store",
+      "name": "Cartier-signed square open-heart",
+      "reference": "Visual identification pending",
+      "type": "Square open-heart automatic",
+      "guide": "watches/cartier-square-openheart-store.html",
+      "source": "https://www.cartier.com/en-ca/watches/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Lumio treats this as a store sighting, not a commercial offer, until it can be independently verified."
+      },
+      "fields": {},
+      "lead": "A square Cartier-signed open-heart style automatic photographed by Lumio in store, with Roman numerals and a visible mechanism aperture.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "cartier-tonneau-store",
+      "name": "Cartier-signed tonneau automatic",
+      "reference": "Visual identification pending",
+      "type": "Tonneau-shaped automatic",
+      "guide": "watches/cartier-tonneau-store.html",
+      "source": "https://www.cartier.com/en-ca/watches/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Original photography is not a certificate of authenticity. No seller link or price appears until verification is complete."
+      },
+      "fields": {},
+      "lead": "A tonneau-shaped Cartier-signed automatic photographed by Lumio in store, with Roman numerals, blue hands and a date display.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-classic-aw0082-01a",
+      "name": "Citizen Classic",
+      "reference": "AW0082-01A",
+      "type": "Eco-Drive dress watch",
+      "guide": "watches/citizen-classic-aw0082-01a.html",
+      "source": "https://www.citizenwatch.com/ca/en/product/AW0082-01A.html?cgid=mens-ecodrive",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 300,
+        "currency": "CAD",
+        "context": "CAD 300",
+        "note": "CAD 300 Official Citizen Canada sale price · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "42 mm",
+          "numeric": 42
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Rose-gold-tone steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Solar quartz / Eco-Drive",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "J800",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Day and date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "Use it for office days, dinners and events where a black resin sports watch would feel too casual.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "An ivory-dial Citizen that brings a warm, formal note to an accessible light-powered watch.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-corso-at2141-52l",
+      "name": "Citizen Corso AT2141‑52L",
+      "reference": "AT2141-52L",
+      "type": "Dress chronograph",
+      "guide": "watches/citizen-corso-at2141-52l.html",
+      "source": "https://www.citizenwatch.com/ca/en/product/AT2141-52L.html?cgid=mens",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "15 Sep 2026",
+      "price": {
+        "amount": 486.99,
+        "currency": "CAD",
+        "context": "CAD 486.99",
+        "note": "CAD 486.99 Amazon Canada offer · checked 15 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "42 mm",
+          "numeric": 42
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Solar quartz / Eco-Drive",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A clean blue-dial chronograph with real daily practicality: solar power, sapphire crystal and enough polish for a more considered wardrobe.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-promaster-dive-bn0191-55l",
+      "name": "Citizen Promaster Dive",
+      "reference": "BN0191-55L",
+      "type": "ISO diver",
+      "guide": "watches/citizen-promaster-dive-bn0191-55l.html",
+      "source": "https://www.citizenwatch.com/ca/en/product/BN0191-55L.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 476,
+        "currency": "CAD",
+        "context": "CAD 476",
+        "note": "CAD 476 Official Citizen Canada sale price · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "44 mm",
+          "numeric": 44
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Solar quartz / Eco-Drive",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Wear it on holidays, active weekends and casual daily routines.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A blue-dial ISO diver with a steel bracelet and light-powered movement: a practical entry into real water capability without the upkeep of a battery change.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-promaster-diver-store",
+      "name": "Citizen Promaster diver",
+      "reference": "Visual identification pending",
+      "type": "Diver-style Citizen Promaster",
+      "guide": "watches/citizen-promaster-diver-store.html",
+      "source": "https://www.citizenwatch.com/ca/en/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Lumio will not guess a reference or price. This is a photographic sighting until the model is confirmed."
+      },
+      "fields": {},
+      "lead": "A Citizen Promaster diver photographed by Lumio in store, with a black dial, timing bezel and steel bracelet.",
+      "sourceStatus": "Original Lumio photo · reference pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-series8-831-nb6050-51w",
+      "name": "Citizen Series8 831",
+      "reference": "NB6050-51W",
+      "type": "Japanese luxury automatic",
+      "guide": "watches/citizen-series8-831-nb6050-51w.html",
+      "source": "https://www.citizenwatch.com/ca/en/product/NB6050-51W.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1595,
+        "currency": "CAD",
+        "context": "CAD 1,595",
+        "note": "CAD 1,595 Official Citizen Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "8310",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": {
+          "value": "It works with a modern office wardrobe, dinner plans, travel and smart weekends.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A sharper Citizen automatic with a faceted steel case, textured green dial and mechanical focus: sport-luxury without a borrowed identity.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-tsuyosa-nj0150-56e",
+      "name": "Citizen TSUYOSA",
+      "reference": "NJ0150-56E",
+      "type": "Integrated-bracelet automatic",
+      "guide": "watches/citizen-tsuyosa-nj0150-56e.html",
+      "source": "https://www.citizenwatch.com/ca/en/product/NJ0150-56E.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 650,
+        "currency": "CAD",
+        "context": "CAD 650",
+        "note": "CAD 650 Official Citizen Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": {
+          "value": "138 g",
+          "numeric": 138
+        },
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "8210",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "42 hours",
+          "numeric": 42
+        },
+        "water": {
+          "value": "50 m",
+          "numeric": 50
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": {
+          "value": "Use it for a modern office, dinners, city weekends and travel.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A modern automatic with an integrated bracelet, black sunray dial and a confident 40 mm profile: a polished route into everyday mechanical style.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "citizen-zenshin-chrono-ca4610-85m-store",
+      "name": "Citizen Zenshin Chrono",
+      "reference": "CA4610-85M",
+      "type": "Eco-Drive Super Titanium chronograph",
+      "guide": "watches/citizen-zenshin-chrono-ca4610-85m-store.html",
+      "source": "https://www.citizenwatch.com/ca/en/product/CA4610-85M.html?cgid=blue-watches-sale",
+      "image": "watch-assets/store-photos/crops/citizen-zenshin-chrono-ca4610-85m.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 895,
+        "currency": "CAD",
+        "context": "C$895 official Citizen Canada price",
+        "note": "Citizen Canada listed CA4610-85M at C$895 with direct online checkout when checked on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "42.5 mm",
+          "numeric": 42.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Super Titanium",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Solar quartz / Eco-Drive",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Eco-Drive",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Super Titanium bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A turquoise Citizen Zenshin Chrono photographed by Lumio, with a textured dial, three dark registers, tachymeter scale and integrated Super Titanium bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "fossil-blue-gmt-fs5991",
+      "name": "Fossil Blue GMT",
+      "reference": "FS5991",
+      "type": "Quartz GMT travel watch",
+      "guide": "watches/fossil-blue-gmt-fs5991.html",
+      "source": "https://www.fossil.com/en-ca/products/fossil-blue-gmt-46-mm-stainless-steel-watch/FS5991.html",
+      "image": "watch-assets/store-photos/fossil/fossil-03-blue-gmt.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": null,
+      "price": {
+        "amount": 325,
+        "currency": "CAD",
+        "context": "C$325 list price · out of stock when checked",
+        "note": "Fossil Canada listed the reference at C$325 and out of stock when checked. Lumio earns no commission from this outbound manufacturer link."
+      },
+      "fields": {
+        "size": {
+          "value": "46 mm",
+          "numeric": 46
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Mineral crystal",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "10 ATM",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Second time zone / GMT",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A blue-dial Fossil Blue GMT photographed by Lumio, built around a 24-hour bezel and an orange second-time-zone hand.",
+      "sourceStatus": "Official reference verified",
+      "availability": "Out of stock when recorded"
+    },
+    {
+      "id": "fossil-fb01-fs5657",
+      "name": "Fossil FB-01",
+      "reference": "FS5657",
+      "type": "Quartz dive-inspired watch",
+      "guide": "watches/fossil-fb01-fs5657.html",
+      "source": "https://sport.woot.com/offers/fossil-mens-fb-01-three-hand-watch-1",
+      "image": "watch-assets/store-photos/fossil/fossil-01-pepsi-dive.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Archive reference",
+      "pending": false,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Canadian availability pending",
+        "note": "The identified reference is discontinued in the sources we found, so Lumio is not presenting an active purchase link or a price. We will add a Canadian retailer or affiliate option only when it can be verified."
+      },
+      "fields": {
+        "size": {
+          "value": "42 mm",
+          "numeric": 42
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Mineral crystal",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black-dial Fossil FB-01 photographed by Lumio, with a red-and-blue elapsed-time bezel and a steel bracelet.",
+      "sourceStatus": "Reference verified · buying link pending",
+      "availability": "Current availability not verified"
+    },
+    {
+      "id": "fossil-fb01-two-tone-pending",
+      "name": "Fossil FB-01",
+      "reference": "Reference pending",
+      "type": "Two-tone quartz chronograph",
+      "guide": "watches/fossil-fb01-two-tone-pending.html",
+      "source": "https://www.fossil.com/en-ca/",
+      "image": "watch-assets/store-photos/fossil/fossil-06-two-tone-chronograph.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending reference confirmation",
+        "note": "No price or purchase link is shown until the exact reference is confirmed. This protects readers from being sent to a similar but incorrect product."
+      },
+      "fields": {},
+      "lead": "A two-tone Fossil chronograph photographed by Lumio, with a black-and-gold elapsed-time bezel and three-register dial.",
+      "sourceStatus": "Family identified · exact reference in verification",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "fossil-fb03-fs5724",
+      "name": "Fossil FB-03 Chronograph",
+      "reference": "FS5724",
+      "type": "Quartz chronograph diver-style watch",
+      "guide": "watches/fossil-fb03-fs5724.html",
+      "source": "https://www.watch-connection.com/products/fossil-fb-03-chronograph-blue-dial-silver-steel-strap-watch-for-men-fs5724",
+      "image": "watch-assets/store-photos/fossil/fossil-02-blue-chronograph.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Canadian availability pending",
+        "note": "This reference is not currently verified through a Canadian Fossil product page. The source is documentation from a retailer, not a Lumio affiliate link."
+      },
+      "fields": {
+        "size": {
+          "value": "46 mm",
+          "numeric": 46
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Mineral crystal",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A blue-dial Fossil chronograph photographed by Lumio, with a rotating blue timing bezel and steel bracelet.",
+      "sourceStatus": "Reference verified · buying link pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "fossil-grant-fs4815",
+      "name": "Fossil Grant",
+      "reference": "FS4815",
+      "type": "Gold-tone quartz chronograph",
+      "guide": "watches/fossil-grant-fs4815.html",
+      "source": "https://www.thewatchagency.com/fossil/grant/fs4815/26653",
+      "image": "watch-assets/store-photos/fossil/fossil-04-gold-roman-chronograph.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Canadian availability pending",
+        "note": "This older reference does not currently have a verified Canadian manufacturer listing. The source supports the reference and specifications; it is not a Lumio affiliate link."
+      },
+      "fields": {
+        "size": {
+          "value": "45 mm",
+          "numeric": 45
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Mineral crystal",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A gold-tone Fossil Grant photographed by Lumio, pairing a black dial, Roman numerals and three chronograph registers.",
+      "sourceStatus": "Reference verified · buying link pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "fossil-machine-fs4662",
+      "name": "Fossil Machine",
+      "reference": "FS4662",
+      "type": "Gunmetal quartz chronograph",
+      "guide": "watches/fossil-machine-fs4662.html",
+      "source": "https://www.fossil.com/en-au/products/machine-45-mm-chronograph-smoke-stainless-steel-watch/FS4662.html",
+      "image": "watch-assets/store-photos/fossil/fossil-05-dark-bezel-chronograph.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Canadian availability pending",
+        "note": "Fossil currently documents this reference on its Australian site. A current Canadian purchase source has not yet been verified, so Lumio earns no commission from the source link."
+      },
+      "fields": {
+        "size": {
+          "value": "45 mm",
+          "numeric": 45
+        },
+        "thickness": null,
+        "weight": null,
+        "material": null,
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A gunmetal Fossil Machine photographed by Lumio, with an industrial bezel, black dial and matching steel bracelet.",
+      "sourceStatus": "Official reference verified · buying link pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "gshock-gm-2100-1a",
+      "name": "G-SHOCK GM-2100-1A",
+      "reference": "GM-2100-1A",
+      "type": "Metal-covered G-SHOCK",
+      "guide": "watches/gshock-gm-2100-1a.html",
+      "source": "https://www.casio.com/ca-en/watches/gshock/product.GM-2100-1A/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "15 Sep 2026",
+      "price": {
+        "amount": 299.29,
+        "currency": "CAD",
+        "context": "CAD 299.29",
+        "note": "CAD 299.29 Amazon Canada offer · checked 15 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "49.3 × 44.4 × 11.8 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": {
+          "value": "72 g",
+          "numeric": 72
+        },
+        "material": {
+          "value": "Resin case · steel bezel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Mineral crystal",
+          "numeric": null
+        },
+        "movement": null,
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": null,
+        "strap": {
+          "value": "Resin band",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "The octagonal G-SHOCK shape, sharpened with a forged stainless-steel bezel. It brings genuine toughness to a cleaner, more architectural everyday look.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "gshock-gmc-b2100d-1a",
+      "name": "G-SHOCK GMC-B2100D-1A",
+      "reference": "GMC-B2100D-1A",
+      "type": "Full-metal chronograph",
+      "guide": "watches/gshock-gmc-b2100d-1a.html",
+      "source": "https://www.casio.com/ca-en/watches/gshock/product.GMC-B2100D-1A/",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "15 Sep 2026",
+      "price": {
+        "amount": 1183.95,
+        "currency": "CAD",
+        "context": "CAD 1,183.95",
+        "note": "CAD 1,183.95 Amazon Canada third-party offer · checked 15 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "51.3 × 46.3 × 12.4 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": {
+          "value": "171 g",
+          "numeric": 171
+        },
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Solar quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": {
+          "value": "Chronograph · Second time zone / GMT",
+          "numeric": null
+        },
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A fully analog, full-metal G-SHOCK chronograph that keeps the toughness but adds enough polish for travel, active days and a modern city wardrobe.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "grand-seiko-62gs-sbgh376",
+      "name": "Grand Seiko 62GS",
+      "reference": "SBGH376",
+      "type": "Japanese high-beat luxury automatic",
+      "guide": "watches/grand-seiko-62gs-sbgh376.html",
+      "source": "https://www.grand-seiko.com/ca-en/collections/heritage/h2",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "19 Sep 2026",
+      "price": {
+        "amount": 43100,
+        "currency": "CAD",
+        "context": "CAD 43,100",
+        "note": "CAD 43,100 Official Grand Seiko Canada · verified 19 Sep 2026"
+      },
+      "fields": {
+        "size": null,
+        "thickness": null,
+        "weight": null,
+        "material": null,
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Hi-Beat",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": null,
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "This is for collectors who value quiet finishing, Japanese watchmaking and details that reveal themselves slowly in changing light.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A rare Grand Seiko 62GS that brings the Japanese house's bezel-free case architecture into its highest price territory.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "grand-seiko-sbgm221",
+      "name": "Grand Seiko Elegance GMT",
+      "reference": "SBGM221",
+      "type": "Japanese automatic GMT dress watch",
+      "guide": "watches/grand-seiko-sbgm221.html",
+      "source": "https://www.grand-seiko.com/ca-en/collections/elegance/e3",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 6700,
+        "currency": "CAD",
+        "context": "CAD 6,700",
+        "note": "CAD 6,700 Official Grand Seiko Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39.5 mm",
+          "numeric": 39.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "9S66",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "72 hours",
+          "numeric": 72
+        },
+        "water": null,
+        "functions": {
+          "value": "Second time zone / GMT · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is best for travel, client meetings, weddings, dinners and collectors who value craft and proportion.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "An ivory-dial GMT that turns a second time zone into something elegant enough for a suit, not just a travel tool.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "grand-seiko-evolution-9-slgw003",
+      "name": "Grand Seiko Evolution 9",
+      "reference": "SLGW003",
+      "type": "Japanese luxury manual dress watch",
+      "guide": "watches/grand-seiko-evolution-9-slgw003.html",
+      "source": "https://www.grand-seiko.com/ca-en/collections/slgw003g",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 15000,
+        "currency": "CAD",
+        "context": "CAD 15,000",
+        "note": "CAD 15,000 Official Grand Seiko Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38.6 mm",
+          "numeric": 38.6
+        },
+        "thickness": {
+          "value": "9.95 mm",
+          "numeric": 9.95
+        },
+        "weight": null,
+        "material": {
+          "value": "Titanium",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Hand-wound mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "9SA4",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": null,
+        "functions": null,
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "This is for tailored days, quiet dinners, collecting with intention and anyone who prefers refinement over immediate brand signalling.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact hand-wound Grand Seiko that turns high-beat engineering and quiet finishing into a serious dress-watch proposition.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-intra-matic-auto-chrono-h38446732",
+      "name": "Hamilton Intra-Matic Auto Chrono",
+      "reference": "H38446732",
+      "type": "Swiss automatic chronograph",
+      "guide": "watches/hamilton-intra-matic-auto-chrono-h38446732.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/h38446732-american-classic-auto-chrono.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 3410,
+        "currency": "CAD",
+        "context": "CAD 3,410",
+        "note": "CAD 3,410 Official Hamilton Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "H-31",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "60 hours",
+          "numeric": 60
+        },
+        "water": null,
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": null,
+        "use": {
+          "value": "Wear it for evenings, creative work, travel and casual tailoring.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A 1968 racing idea brought forward in black PVD, orange accents and a proper Swiss automatic chronograph movement.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-jazzmaster-viewmatic-h32515555",
+      "name": "Hamilton Jazzmaster Viewmatic",
+      "reference": "H32515555",
+      "type": "Swiss dress automatic",
+      "guide": "watches/hamilton-jazzmaster-viewmatic-h32515555.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/h32515555-jazzmaster-day-date-auto.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1120,
+        "currency": "CAD",
+        "context": "CAD 1,120",
+        "note": "CAD 1,120 Official Hamilton Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "H-10",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "50 m",
+          "numeric": 50
+        },
+        "functions": null,
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "This is strongest with tailoring, knitwear, a relaxed jacket or an office wardrobe that leans more refined than sporty.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A restrained Swiss automatic with silver dial, sapphire crystal and an 80-hour reserve: built for people who want traditional watchmaking without theatrical styling.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-khaki-field-expedition-h70315130",
+      "name": "Hamilton Khaki Field Expedition",
+      "reference": "H70315130",
+      "type": "Swiss automatic field watch",
+      "guide": "watches/hamilton-khaki-field-expedition-h70315130.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/h70315130-khaki-field-expedition-auto.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1560,
+        "currency": "CAD",
+        "context": "CAD 1,560",
+        "note": "CAD 1,560 Official Hamilton Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "41 mm",
+          "numeric": 41
+        },
+        "thickness": {
+          "value": "11.5 mm",
+          "numeric": 11.5
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "H-10",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It works for travel, daily movement, casual offices and weekends outdoors.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A genuine modern field watch with an internal compass bezel, long reserve and enough polish to leave the trail behind and enter the city.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-khaki-field-mechanical-h69439931",
+      "name": "Hamilton Khaki Field Mechanical 38",
+      "reference": "H69439931",
+      "type": "Field watch",
+      "guide": "watches/hamilton-khaki-field-mechanical-h69439931.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/h69439931-khaki-field-mechanical.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "14 Sep 2026",
+      "price": {
+        "amount": 820,
+        "currency": "CAD",
+        "context": "CAD 820",
+        "note": "CAD 820 Official Hamilton Canada · H-50 manual movement · verified 14 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38 mm",
+          "numeric": 38
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Hand-wound mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "5 bar",
+          "numeric": 50
+        },
+        "functions": null,
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A compact, hand-wound field watch with military roots. Quietly confident rather than flashy, it makes sense for someone who enjoys watches as objects, not only as accessories.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-khaki-field-murph-h70405130",
+      "name": "Hamilton Khaki Field Murph",
+      "reference": "H70405130",
+      "type": "Swiss automatic field watch",
+      "guide": "watches/hamilton-khaki-field-murph-h70405130.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/h70405130-khaki-field-murph-auto.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1410,
+        "currency": "CAD",
+        "context": "CAD 1,410",
+        "note": "CAD 1,410 Official Hamilton Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38 mm",
+          "numeric": 38
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "H-10",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is natural with denim, knitwear, a casual office and weekend travel.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A genuinely wearable field watch with an uncommon origin: it began as a screen prop for Interstellar and became a modern Swiss everyday classic.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-khaki-navy-scuba-gmt-h82555330",
+      "name": "Hamilton Khaki Navy Scuba GMT",
+      "reference": "H82555330",
+      "type": "Swiss automatic GMT diver",
+      "guide": "watches/hamilton-khaki-navy-scuba-gmt-h82555330.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/h82555330-khaki-navy-gmt-auto.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1900,
+        "currency": "CAD",
+        "context": "CAD 1,900",
+        "note": "CAD 1,900 Official Hamilton Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "43 mm",
+          "numeric": 43
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "300 m",
+          "numeric": 300
+        },
+        "functions": {
+          "value": "Second time zone / GMT",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Rubber / silicone",
+          "numeric": null
+        },
+        "use": {
+          "value": "Use it for travel, beach holidays, long weekends and a casual wardrobe that can handle a bolder 43 mm case.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A proper automatic travel-and-water watch that tracks multiple time zones without giving up the confidence of a 300 m dive-inspired case.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "hamilton-ventura-h24411732",
+      "name": "Hamilton Ventura",
+      "reference": "H24411732",
+      "type": "Iconic Swiss quartz dress watch",
+      "guide": "watches/hamilton-ventura-h24411732.html",
+      "source": "https://www.hamiltonwatch.com/en-ca/collection/ventura.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1310,
+        "currency": "CAD",
+        "context": "CAD 1,310",
+        "note": "CAD 1,310 Official Hamilton Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "32 × 50 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "50 m",
+          "numeric": 50
+        },
+        "functions": null,
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "Choose it for evening events, creative work, tailored monochrome looks and anyone whose wardrobe already has the basics covered.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A true design icon rather than a conventional watch: the Ventura's asymmetrical case has been making a statement since 1957.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "iwc-ingenieur-iw328901",
+      "name": "IWC Ingenieur Automatic",
+      "reference": "IW328901",
+      "type": "Luxury sports automatic",
+      "guide": "watches/iwc-ingenieur-iw328901.html",
+      "source": "https://www.iwc.com/ca-en/watches/ingenieur/iw328901-ingenieur-automatic-40",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 17600,
+        "currency": "CAD",
+        "context": "CAD 17,600 before tax",
+        "note": "CAD 17,600 Official IWC Canada · before tax · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": {
+          "value": "10.7 mm",
+          "numeric": 10.7
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "32111",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "120 hours",
+          "numeric": 120
+        },
+        "water": {
+          "value": "10 bar",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It can handle a sharp office, travel, city weekends and active daily use.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A modern luxury-sports watch with Gérald Genta lineage, real anti-magnetic engineering and a five-day power reserve.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "iwc-portugieser-iw358303",
+      "name": "IWC Portugieser Automatic",
+      "reference": "IW358303",
+      "type": "Swiss luxury automatic dress watch",
+      "guide": "watches/iwc-portugieser-iw358303.html",
+      "source": "https://www.iwc.com/ca-en/watches/portugieser/iw358303-portugieser-automatic-40",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 10600,
+        "currency": "CAD",
+        "context": "CAD 10,600 before tax",
+        "note": "CAD 10,600 Official IWC Canada · before tax · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40.4 mm",
+          "numeric": 40.4
+        },
+        "thickness": {
+          "value": "12.3 mm",
+          "numeric": 12.3
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "82200",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "60 hours",
+          "numeric": 60
+        },
+        "water": {
+          "value": "3 bar",
+          "numeric": 30
+        },
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "Wear it with tailoring, a business wardrobe, formal dinners and occasions where a dive bezel or busy chronograph would feel out of place.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A clean, large-dial IWC that turns traditional watchmaking into a composed choice for people who prefer proportion and restraint over obvious status cues.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "jaeger-lecoultre-master-control-chronometre-date",
+      "name": "Jaeger-LeCoultre Master Control",
+      "reference": "Chronomètre Date 38 mm",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/jaeger-lecoultre-master-control-chronometre-date.html",
+      "source": "https://www.jaeger-lecoultre.com/ca-en/watches/men-watches",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 19500,
+        "currency": "CAD",
+        "context": "CAD 19,500",
+        "note": "CAD 19,500 Official Jaeger-LeCoultre Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38 mm",
+          "numeric": 38
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": {
+          "value": "It is strongest with business tailoring, formal dinners and a quiet collection built around craft rather than visual volume.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A 38 mm Master Control made for the collector who wants high watchmaking in a calm, practical daily format.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "jaeger-lecoultre-master-control-q4168120",
+      "name": "Jaeger-LeCoultre Master Control",
+      "reference": "Q4168120",
+      "type": "Swiss chronometer automatic",
+      "guide": "watches/jaeger-lecoultre-master-control-q4168120.html",
+      "source": "https://www.jaeger-lecoultre.com/ca-en/watches/master-control/master-control-chronometre-date-power-reserve-q4168120",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "19 Sep 2026",
+      "price": {
+        "amount": 23500,
+        "currency": "CAD",
+        "context": "CAD 23,500",
+        "note": "CAD 23,500 Official Jaeger-LeCoultre Canada · verified 19 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": {
+          "value": "9.2 mm",
+          "numeric": 9.2
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "738",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "70 hours",
+          "numeric": 70
+        },
+        "water": {
+          "value": "5 bar",
+          "numeric": 50
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Wear it for a refined office, travel and formal occasions where you want technical depth without the visual complexity of a perpetual calendar.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A slim 39 mm chronometer that puts date and power-reserve information into a balanced, architectural high-luxury design.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "jaeger-lecoultre-master-control-q4178180",
+      "name": "Jaeger-LeCoultre Master Control",
+      "reference": "Q4178180",
+      "type": "Perpetual calendar haute horlogerie",
+      "guide": "watches/jaeger-lecoultre-master-control-q4178180.html",
+      "source": "https://www.jaeger-lecoultre.com/ca-en/watches/master-control/master-control-chronometre-perpetual-calendar-q4178180",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 63500,
+        "currency": "CAD",
+        "context": "CAD 63,500",
+        "note": "CAD 63,500 Official Jaeger-LeCoultre Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": {
+          "value": "9.2 mm",
+          "numeric": 9.2
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "868",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "70 hours",
+          "numeric": 70
+        },
+        "water": null,
+        "functions": {
+          "value": "Date · Moon phase · Perpetual calendar",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "This is for collecting with intent, major life milestones and formal wardrobes.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A 39 mm perpetual calendar that combines a serious complication, full calendar display and elegant proportions without drifting into showmanship.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "jaeger-lecoultre-reverso-classic-monoface-small-seconds",
+      "name": "Jaeger-LeCoultre Reverso Classic",
+      "reference": "Monoface Small Seconds",
+      "type": "Haute horlogerie manual dress watch",
+      "guide": "watches/jaeger-lecoultre-reverso-classic-monoface-small-seconds.html",
+      "source": "https://www.jaeger-lecoultre.com/ca-en/watches/our-watch-selection",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 10800,
+        "currency": "CAD",
+        "context": "CAD 10,800",
+        "note": "CAD 10,800 Official Jaeger-LeCoultre Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40.1 × 24.4 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Hand-wound mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "Wear it with tailoring, formal evenings and travel where a rectangular watch feels more intentional than another round sports case.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A steel Reverso that makes Art Deco proportion and daily winding part of the ownership experience.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "jaeger-lecoultre-reverso-tribute-q398847j",
+      "name": "Jaeger-LeCoultre Reverso Tribute",
+      "reference": "Q398847J",
+      "type": "Haute horlogerie manual dual-time",
+      "guide": "watches/jaeger-lecoultre-reverso-tribute-q398847j.html",
+      "source": "https://www.jaeger-lecoultre.com/ca-en/watches/reverso/reverso-tribute/reverso-tribute-duoface-small-seconds-q398847j",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 19900,
+        "currency": "CAD",
+        "context": "CAD 19,900",
+        "note": "CAD 19,900 Official Jaeger-LeCoultre Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "47 × 28.3 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Hand-wound mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "3 bar",
+          "numeric": 30
+        },
+        "functions": {
+          "value": "Second time zone / GMT",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "Choose it for formal travel, dinners, collecting and people who value design history and mechanical interaction.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A reversible manual-wind Reverso that makes travel, mechanics and Art Deco design feel inseparable rather than merely decorative.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "longines-conquest-l3-720-4-52-9",
+      "name": "Longines Conquest 38",
+      "reference": "L3.720.4.52.9",
+      "type": "Swiss everyday luxury",
+      "guide": "watches/longines-conquest-l3-720-4-52-9.html",
+      "source": "https://www.longines.com/en-ca/p/watch-conquest-l3-720-4-52-9",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "14 Sep 2026",
+      "price": {
+        "amount": 2900,
+        "currency": "CAD",
+        "context": "CAD 2,900",
+        "note": "CAD 2,900 Official Longines Canada · 72-hour automatic · verified 14 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38 mm",
+          "numeric": 38
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "72 hours",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "72 hours",
+          "numeric": 72
+        },
+        "water": {
+          "value": "10 bar",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Rubber / silicone",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A modern Swiss automatic that gives a serious, grown-up feel without becoming precious. It is designed for someone who wants one capable watch for most of life.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "longines-dolcevita-l5-767-4-71-6",
+      "name": "Longines DolceVita",
+      "reference": "L5.767.4.71.6",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/longines-dolcevita-l5-767-4-71-6.html",
+      "source": "https://www.longines.com/en-ca/p/watch-longines-dolcevita-l5-767-4-71-6",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 2650,
+        "currency": "CAD",
+        "context": "CAD 2,650",
+        "note": "CAD 2,650 Official Longines Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "28.2 × 47 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": {
+          "value": "45 hours",
+          "numeric": 45
+        },
+        "water": {
+          "value": "3 bar",
+          "numeric": 30
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is strongest with tailoring, dinners, formal events and quieter office wardrobes.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A rectangular Swiss automatic that gives the Dress filter a more architectural, formal option than the usual round three-hand watch.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "longines-hydroconquest-41",
+      "name": "Longines HydroConquest",
+      "reference": "41 mm automatic",
+      "type": "Swiss automatic diver",
+      "guide": "watches/longines-hydroconquest-41.html",
+      "source": "https://www.longines.com/en-ca/watches/conquest/hydroconquest",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 2050,
+        "currency": "CAD",
+        "context": "CAD 2,050",
+        "note": "CAD 2,050 Official Longines Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "41 mm",
+          "numeric": 41
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "300 m",
+          "numeric": 300
+        },
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "Use it for travel, sport, weekends, casual offices and holidays near water.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A Swiss automatic diver with a clear tool-watch purpose, robust 300 m rating and enough refinement to work outside the water.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "longines-spirit-zulu-time-l3-802-4-53-2",
+      "name": "Longines Spirit Zulu Time",
+      "reference": "L3.802.4.53.2",
+      "type": "Swiss automatic GMT",
+      "guide": "watches/longines-spirit-zulu-time-l3-802-4-53-2.html",
+      "source": "https://www.longines.com/en-ca/p/watch-longines-spirit-zulu-time-l3-802-4-53-2",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 4550,
+        "currency": "CAD",
+        "context": "CAD 4,550",
+        "note": "CAD 4,550 Official Longines Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "L844",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "72 hours",
+          "numeric": 72
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Second time zone / GMT · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is ideal for work trips, frequent travel, airport days and anyone who has family or colleagues in another time zone.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A refined 39 mm GMT that makes a credible companion for changing time zones, rather than a travel-themed accessory.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "mido-multifort-tv-big-date-m0495261109100-store",
+      "name": "Mido Multifort TV Big Date",
+      "reference": "M049.526.11.091.00",
+      "type": "Swiss automatic big-date watch",
+      "guide": "watches/mido-multifort-tv-big-date-m0495261109100-store.html",
+      "source": "https://www.midowatches.com/ca-en/multifort-tv-big-date-m0495261109100.html",
+      "image": "watch-assets/store-photos/mido-multifort-tv-big-date-m0495261109100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "23 Oct 2026",
+      "price": {
+        "amount": 1660,
+        "currency": "CAD",
+        "context": "C$1,660 official Mido Canada price",
+        "note": "Mido Canada listed this reference at C$1,660 and offered it for online purchase when checked on 23 October 2026. Price and availability can change. This direct manufacturer page is not represented as an affiliate link."
+      },
+      "fields": {
+        "size": {
+          "value": "39.2 × 40 mm",
+          "numeric": null
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "80 hours",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": null,
+        "functions": {
+          "value": "Big date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A green-dial Mido Multifort TV Big Date photographed by Lumio, distinguished by its TV-shaped case and large date at 12 o'clock.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 23 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "mido-ocean-star-200c-m0424301109100-store",
+      "name": "Mido Ocean Star 200C",
+      "reference": "M042.430.11.091.00",
+      "type": "Swiss automatic diver",
+      "guide": "watches/mido-ocean-star-200c-m0424301109100-store.html",
+      "source": "https://www.midowatches.com/ca-en/ocean-star-200c-m0424301109100.html",
+      "image": "watch-assets/store-photos/mido-ocean-star-200c-m0424301109100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "23 Oct 2026",
+      "price": {
+        "amount": 1600,
+        "currency": "CAD",
+        "context": "C$1,600 official Mido Canada price · out of stock when checked",
+        "note": "Mido Canada listed this reference at C$1,600 and marked it out of stock when checked on 23 October 2026. Price and availability can change. This direct manufacturer page is not represented as an affiliate link."
+      },
+      "fields": {
+        "size": {
+          "value": "42.5 mm",
+          "numeric": 42.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": null,
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "80 hours",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": {
+          "value": "Day and date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A green Mido Ocean Star photographed by Lumio, with a ceramic timing bezel, steel bracelet and day-date display.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 23 Oct 2026",
+      "availability": "Out of stock when recorded"
+    },
+    {
+      "id": "timex-q-1978-day-date-tw2w44800",
+      "name": "Q Timex 1978 Day/Date",
+      "reference": "TW2W44800",
+      "type": "Vintage quartz",
+      "guide": "watches/timex-q-1978-day-date-tw2w44800.html",
+      "source": "https://timex.ca/products/q-timex-1978-day-date-37-5mm-leather-strap-watch-tw2w44800",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "15 Sep 2026",
+      "price": {
+        "amount": 269,
+        "currency": "CAD",
+        "context": "CAD 269",
+        "note": "CAD 269 Official Timex Canada · available checked 15 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "37.5 mm",
+          "numeric": 37.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "30 m",
+          "numeric": 30
+        },
+        "functions": {
+          "value": "Day and date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A compact, blue-dial reissue that brings late-1970s color and proportion to everyday wear without asking you to baby it.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-captain-cook-blue-rice-grain",
+      "name": "Rado Captain Cook · Blue rice-grain",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-captain-cook-blue-rice-grain.html",
+      "source": null,
+      "image": "watch-assets/store-photos/rado-captain-cook-blue-mesh-store-v4.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-captain-cook-blue-steel",
+      "name": "Rado Captain Cook · Blue steel",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-captain-cook-blue-steel.html",
+      "source": null,
+      "image": "watch-assets/store-photos/rado-captain-cook-blue-steel-store-v3.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-captain-cook-green-gold",
+      "name": "Rado Captain Cook · Green and gold",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-captain-cook-green-gold.html",
+      "source": null,
+      "image": "watch-assets/store-photos/rado-captain-cook-green-gold-store-v3.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-captain-cook-green-rice-grain",
+      "name": "Rado Captain Cook green dial",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-captain-cook-green-rice-grain.html",
+      "source": "https://www.rado.com/en_ca/watches/all-our-collections/captain-cook.html",
+      "image": "watch-assets/store-photos/rado-captain-cook-green-rice-grain-store.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-captain-cook-burgundy-r32223408",
+      "name": "Rado Captain Cook R32223408",
+      "reference": "R32223408",
+      "type": "",
+      "guide": "watches/rado-captain-cook-burgundy-r32223408.html",
+      "source": "https://www.rado.com/en_ca/captain-cook-automatic-r32223408.html",
+      "image": "watch-assets/store-photos/rado-captain-cook-burgundy-store-v3.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "16 Oct 2026",
+      "price": {
+        "amount": 3800,
+        "currency": "CAD",
+        "context": "CAD 3,800 · checked 16 Oct 2026",
+        "note": ""
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": null,
+        "weight": null,
+        "material": null,
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "300 m",
+          "numeric": 300
+        },
+        "functions": null,
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-classic-white-gold-store",
+      "name": "Rado classic white and gold",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-classic-white-gold-store.html",
+      "source": "https://www.rado.com/en_ca/",
+      "image": "watch-assets/store-photos/rado-ceramica-black-round-store.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-hyperchrome-silver-store",
+      "name": "Rado HyperChrome silver dial",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-hyperchrome-silver-store.html",
+      "source": "https://www.rado.com/en_ca/watches/all-our-collections/hyperchrome.html",
+      "image": "watch-assets/store-photos/rado-hyperchrome-silver-store.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-jubile-black-store",
+      "name": "Rado Jubilé black dial",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-jubile-black-store.html",
+      "source": "https://www.rado.com/en_ca/",
+      "image": "watch-assets/store-photos/rado-jubile-black-steel-store.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rado-ceramica-black-gold-store",
+      "name": "Rado rectangular black and gold",
+      "reference": "Reference not recorded",
+      "type": "",
+      "guide": "watches/rado-ceramica-black-gold-store.html",
+      "source": "https://www.rado.com/en_ca/",
+      "image": "watch-assets/store-photos/rado-ceramica-black-gold-store.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "",
+        "note": ""
+      },
+      "fields": {},
+      "lead": "",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rolex-signed-black-3-6-9-reference",
+      "name": "Rolex-signed black 3-6-9 watch",
+      "reference": "Visual identification pending",
+      "type": "Black-dial steel sports watch",
+      "guide": "watches/store-sighting.html?watch=rolex-signed-black-3-6-9-reference",
+      "source": "https://www.rolex.com/watches",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Not a sale listing or authentication. Reference, provenance and authenticity require independent verification."
+      },
+      "fields": {},
+      "lead": "A black-dial Rolex-signed steel watch with 3-6-9 numerals photographed by Lumio in store.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rolex-signed-black-gold-rubber-reference",
+      "name": "Rolex-signed black-and-gold rubber-strap watch",
+      "reference": "Visual identification pending",
+      "type": "Black-dial diver-style watch",
+      "guide": "watches/store-sighting.html?watch=rolex-signed-black-gold-rubber-reference",
+      "source": "https://www.rolex.com/watches",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Not a sale listing or authentication. Reference, provenance and authenticity require independent verification."
+      },
+      "fields": {},
+      "lead": "A black-and-gold Rolex-signed dive-style watch on a rubber strap, photographed by Lumio in store.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rolex-signed-two-tone-gmt-reference",
+      "name": "Rolex-signed two-tone GMT-style watch",
+      "reference": "Visual identification pending",
+      "type": "Two-tone 24-hour-bezel sports watch",
+      "guide": "watches/store-sighting.html?watch=rolex-signed-two-tone-gmt-reference",
+      "source": "https://www.rolex.com/watches",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Not a sale listing or authentication. Reference, provenance and authenticity require independent verification."
+      },
+      "fields": {},
+      "lead": "A two-tone Rolex-signed 24-hour-bezel sports watch photographed by Lumio in store.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "rolex-signed-white-24-hour-reference",
+      "name": "Rolex-signed white 24-hour watch",
+      "reference": "Visual identification pending",
+      "type": "White-dial 24-hour sports watch",
+      "guide": "watches/store-sighting.html?watch=rolex-signed-white-24-hour-reference",
+      "source": "https://www.rolex.com/watches",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": null,
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Price pending verification",
+        "note": "Not a sale listing or authentication. Reference, provenance and authenticity require independent verification."
+      },
+      "fields": {},
+      "lead": "A white-dial, 24-hour-bezel Rolex-signed sports watch photographed by Lumio in store.",
+      "sourceStatus": "Original Lumio photo · reference and authenticity pending",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-5-sports-srpl83",
+      "name": "Seiko 5 Sports SRPL83",
+      "reference": "SRPL83",
+      "type": "Everyday automatic",
+      "guide": "watches/seiko-5-sports-srpl83.html",
+      "source": "https://www.seikowatches.com/ca-en/products/5sports/srpl83",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "14 Sep 2026",
+      "price": {
+        "amount": 625,
+        "currency": "CAD",
+        "context": "CAD 625",
+        "note": "CAD 625 Official Seiko Canada · 4R36 automatic · verified 14 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "42.5 mm",
+          "numeric": 42.5
+        },
+        "thickness": null,
+        "weight": {
+          "value": "187 g",
+          "numeric": 187
+        },
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Hardlex",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "4R36",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "10 bar",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Day and date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A modern Seiko 5 with a visual link to the classic SKX shape: mechanical, substantial and polished enough to make an everyday outfit feel intentional.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-presage-spb524",
+      "name": "Seiko Presage Classic",
+      "reference": "SPB524",
+      "type": "Japanese automatic dress watch",
+      "guide": "watches/seiko-presage-spb524.html",
+      "source": "https://www.seikowatches.com/ca-en/products/presage/spb524j1",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 1475,
+        "currency": "CAD",
+        "context": "CAD 1,475",
+        "note": "CAD 1,475 Official Seiko Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "36 mm",
+          "numeric": 36
+        },
+        "thickness": {
+          "value": "12.5 mm",
+          "numeric": 12.5
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "6R51",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "72 hours",
+          "numeric": 72
+        },
+        "water": {
+          "value": "10 bar",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "Choose it for work, dinners and a wardrobe built around clean lines.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A 36 mm Presage that treats proportion as the main luxury: compact, automatic and calm enough for daily tailoring.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-presage-srp855",
+      "name": "Seiko Presage Cocktail Time",
+      "reference": "SRP855",
+      "type": "Japanese automatic dress watch",
+      "guide": "watches/seiko-presage-srp855.html",
+      "source": "https://www.seikowatches.com/ca-en/products/presage/special/cocktailtime_ladies",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 575,
+        "currency": "CAD",
+        "context": "CAD 575",
+        "note": "CAD 575 Official Seiko Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "34 mm",
+          "numeric": 34
+        },
+        "thickness": null,
+        "weight": null,
+        "material": null,
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": null,
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "It works for celebrations, dinners, refined daytime outfits and anyone who finds the standard 40 mm sports watch too dominant.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact Cocktail Time reference built around a silver dial, rose-gold accents and a deliberately elegant scale.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-presage-srpe45",
+      "name": "Seiko Presage Cocktail Time",
+      "reference": "SRPE45",
+      "type": "Japanese automatic dress watch",
+      "guide": "watches/seiko-presage-srpe45.html",
+      "source": "https://www.seikowatches.com/ca-en/products/presage/srpe45j1",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 625,
+        "currency": "CAD",
+        "context": "CAD 625",
+        "note": "CAD 625 Official Seiko Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38.5 mm",
+          "numeric": 38.5
+        },
+        "thickness": {
+          "value": "11.8 mm",
+          "numeric": 11.8
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Hardlex",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "4R35",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "41 hours",
+          "numeric": 41
+        },
+        "water": {
+          "value": "5 bar",
+          "numeric": 50
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": {
+          "value": "Choose it for dinners, a polished office, creative work and travel where you want a watch that looks deliberate but not severe.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact Presage that turns the Cocktail Time idea into an easy, dress-led everyday automatic.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-presage-spb405",
+      "name": "Seiko Presage Craftsmanship",
+      "reference": "SPB405",
+      "type": "Japanese automatic dress watch",
+      "guide": "watches/seiko-presage-spb405.html",
+      "source": "https://www.seikowatches.com/ca-en/news/20230912",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 2225,
+        "currency": "CAD",
+        "context": "CAD 2,225",
+        "note": "CAD 2,225 Official Seiko Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40.2 mm",
+          "numeric": 40.2
+        },
+        "thickness": {
+          "value": "11.6 mm",
+          "numeric": 11.6
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "6R55",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "72 hours",
+          "numeric": 72
+        },
+        "water": {
+          "value": "10 bar",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Wear it with a dark suit, monochrome evening clothes or an understated office wardrobe.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A black Urushi-lacquer Presage whose value lies in its dial craft, modern automatic movement and a quietly formal profile.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-presage-spb537",
+      "name": "Seiko Presage Craftsmanship",
+      "reference": "SPB537",
+      "type": "Japanese enamel automatic dress watch",
+      "guide": "watches/seiko-presage-spb537.html",
+      "source": "https://www.seikowatches.com/ca-en/products/presage/spb537j1",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 2250,
+        "currency": "CAD",
+        "context": "CAD 2,250",
+        "note": "CAD 2,250 Official Seiko Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "35.9 mm",
+          "numeric": 35.9
+        },
+        "thickness": {
+          "value": "12.5 mm",
+          "numeric": 12.5
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "6R5H",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "72 hours",
+          "numeric": 72
+        },
+        "water": {
+          "value": "5 bar",
+          "numeric": 50
+        },
+        "functions": null,
+        "strap": null,
+        "use": {
+          "value": "This is for tailoring, calmer dinners and collectors who value materials and small details over a large logo.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact enamel-dial Presage that brings a true craft material into the middle of the luxury market.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "seiko-presage-srpl71",
+      "name": "Seiko Presage Style60’s",
+      "reference": "SRPL71",
+      "type": "Japanese automatic vintage-style watch",
+      "guide": "watches/seiko-presage-srpl71.html",
+      "source": "https://www.seikowatches.com/ca-fr/products/presage/srpl71j1",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "6 Oct 2026",
+      "price": {
+        "amount": 825,
+        "currency": "CAD",
+        "context": "CAD 825",
+        "note": "CAD 825 Official Seiko Canada · verified 6 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39.5 mm",
+          "numeric": 39.5
+        },
+        "thickness": {
+          "value": "12 mm",
+          "numeric": 12
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Hardlex",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "4R35",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "41 hours",
+          "numeric": 41
+        },
+        "water": {
+          "value": "5 bar",
+          "numeric": 50
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": {
+          "value": "Wear it with denim, knitwear, a casual jacket or creative-office clothing.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A 1960s-inspired Seiko automatic with compact vintage proportions and enough daily practicality to avoid becoming a costume piece.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-ballade-t1564081109300",
+      "name": "Tissot Ballade",
+      "reference": "T156.408.11.093.00",
+      "type": "Swiss COSC automatic dress watch",
+      "guide": "watches/tissot-ballade-t1564081109300.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1564081109300.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1380,
+        "currency": "CAD",
+        "context": "CAD 1,380",
+        "note": "CAD 1,380 Official Tissot Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": {
+          "value": "10.98 mm",
+          "numeric": 10.98
+        },
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "COSC",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It works for a client meeting, a dinner, a wedding or a polished everyday wardrobe.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A green-dial Swiss automatic with a fluted bezel and chronometer certification: more character than a plain three-hand watch, without losing restraint.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-store-black-classic",
+      "name": "Tissot Black classic dial",
+      "reference": "Reference not recorded",
+      "type": "Store sighting · Tissot",
+      "guide": "watches/tissot-store-black-classic.html",
+      "source": null,
+      "image": "watch-assets/store-photos/tissot-store-black-classic-menu-v3.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Identification pending",
+      "pending": true,
+      "checked": "21 Sep 2026",
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Reference pending",
+        "note": "Reference pending Original Lumio store photograph · 21 Sep 2026"
+      },
+      "fields": {},
+      "lead": "A black-dial Tissot photographed by Lumio in store. Reference and price will be confirmed before it becomes a purchase listing.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-store-black-powermatic",
+      "name": "Tissot Gentleman",
+      "reference": "T127.407.11.051.00",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/tissot-store-black-powermatic.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1274071105100.html",
+      "image": "watch-assets/store-photos/crops/tissot-gentleman-black-t1274071105100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Official specifications checked",
+      "pending": false,
+      "checked": "29 Oct 2026",
+      "price": {
+        "amount": 1195,
+        "currency": "CAD",
+        "context": "C$1,195 official Tissot Canada list price",
+        "note": "Official Canadian product page checked 29 October 2026. Price and stock can change."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": {
+          "value": "11.50 mm",
+          "numeric": 11.5
+        },
+        "weight": {
+          "value": "164 g",
+          "numeric": 164
+        },
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire · underside anti-reflective coating",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Powermatic 80",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "Up to 80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m / 10 bar",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date · silicon balance spring · exhibition caseback · luminous hands",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "A polished automatic for work, dinners and everyday wear; the mechanical reserve supports a weekend rotation.",
+          "numeric": null
+        },
+        "frequency": null,
+        "lugWidth": {
+          "value": "21 mm",
+          "numeric": 21
+        },
+        "clasp": {
+          "value": "Butterfly clasp with push-buttons",
+          "numeric": null
+        }
+      },
+      "lead": "A black-dial Tissot Gentleman photographed by Lumio, with a smooth steel bezel, date display and Powermatic 80 automatic movement.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-gentleman-t1274071109101",
+      "name": "Tissot Gentleman",
+      "reference": "T127.407.11.091.01",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/tissot-gentleman-t1274071109101.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1274071109101.html",
+      "image": "watch-assets/store-photos/tissot-store-green-powermatic-menu-v3.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "23 Oct 2026",
+      "price": {
+        "amount": 1195,
+        "currency": "CAD",
+        "context": "C$1,195",
+        "note": "C$1,195 Official Tissot Canada · Powermatic 80 · verified 23 Oct 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": {
+          "value": "11.5 mm",
+          "numeric": 11.5
+        },
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Powermatic 80",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Use it for the office, dinners, travel and an everyday wardrobe that needs one refined automatic.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A green-dial Swiss automatic that is a high-confidence visual match to Lumio's individual store photograph: clean enough for work and expressive enough for daily wear.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-store-titanium-blue",
+      "name": "Tissot Gentleman",
+      "reference": "T127.410.44.041.00",
+      "type": "Swiss quartz titanium dress watch",
+      "guide": "watches/tissot-store-titanium-blue.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1274104404100.html",
+      "image": "watch-assets/store-photos/crops/tissot-gentleman-titanium-t1274104404100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 750,
+        "currency": "CAD",
+        "context": "C$750 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$750 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": {
+          "value": "90 g",
+          "numeric": 90
+        },
+        "material": {
+          "value": "Titanium",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Titanium bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A blue-dial Tissot Gentleman photographed by Lumio, with a titanium case and bracelet, date display and slim polished bezel.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-gentleman-t1658071105100",
+      "name": "Tissot Gentleman",
+      "reference": "T165.807.11.051.00",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/tissot-gentleman-t1658071105100.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1658071105100.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 1050,
+        "currency": "CAD",
+        "context": "CAD 1,050",
+        "note": "CAD 1,050 Official Tissot Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "38 mm",
+          "numeric": 38
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Use it for work, dinners, travel and first serious-watch ownership.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact Swiss automatic that keeps the dress-watch idea useful for the office, the weekend and the moments in between.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-gentleman-t1658071109100",
+      "name": "Tissot Gentleman",
+      "reference": "T165.807.11.091.00",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/tissot-gentleman-t1658071109100.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1658071109100.html",
+      "image": null,
+      "photoLabel": "Model photograph not verified",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": null,
+      "price": {
+        "amount": 1050,
+        "currency": "CAD",
+        "context": "CAD 1,050",
+        "note": ""
+      },
+      "fields": {
+        "size": {
+          "value": "38 mm",
+          "numeric": 38
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Powermatic 80",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Wear it for a modern office, dinners, travel and daily life when you want something more intentional than a fashion watch but quieter than a sports diver.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A green-dial Swiss automatic with a composed 38 mm profile, photographed by Lumio in store and built to move between work, dinner and a well-considered everyday wardrobe.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-store-blue-openheart",
+      "name": "Tissot Gentleman Open Heart",
+      "reference": "T127.407.11.041.01",
+      "type": "Swiss automatic open-heart dress watch",
+      "guide": "watches/tissot-store-blue-openheart.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1274071104101.html",
+      "image": "watch-assets/store-photos/crops/tissot-gentleman-open-heart-blue-t1274071104101.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 1225,
+        "currency": "CAD",
+        "context": "C$1,225 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$1,225 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "80 hours",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Open-heart display",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A blue-dial Tissot Gentleman Open Heart photographed by Lumio, with its visible balance aperture and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-store-silver-openheart",
+      "name": "Tissot Gentleman Powermatic 80 Silicium",
+      "reference": "T127.407.11.031.00",
+      "type": "Swiss automatic dress watch",
+      "guide": "watches/tissot-store-silver-openheart.html",
+      "source": "https://www.calgaryjewellery.com/products/gentleman-powermatic-80-siliciumt127-407-11-031-00",
+      "image": "watch-assets/store-photos/crops/tissot-gentleman-silver-t1274071103100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 1150,
+        "currency": "CAD",
+        "context": "C$1,150 listed by an authorized Canadian Tissot retailer",
+        "note": "This older reference did not show an active direct Tissot Canada product page when checked. Calgary Jewellery lists it at C$1,150 and is named as an authorized retailer in Tissot Canada's store locator. Price, availability and checkout status can change; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "80 hours",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A silver-dial Tissot Gentleman photographed by Lumio, with a polished steel bezel, date display and Powermatic 80 automatic movement.",
+      "sourceStatus": "High-confidence visual match · authorized-Canada retailer price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr100-blue-t1504101104100-store",
+      "name": "Tissot PR 100",
+      "reference": "T150.410.11.041.00",
+      "type": "Swiss quartz everyday watch",
+      "guide": "watches/tissot-pr100-blue-t1504101104100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1504101104100.html",
+      "image": "watch-assets/store-photos/crops/tissot-pr100-blue-t1504101104100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 475,
+        "currency": "CAD",
+        "context": "C$475 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$475 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A blue-dial Tissot PR 100 photographed by Lumio, with a smooth steel bezel, date display and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr100-green-t1504101109100-store",
+      "name": "Tissot PR 100",
+      "reference": "T150.410.11.091.00",
+      "type": "Swiss quartz everyday watch",
+      "guide": "watches/tissot-pr100-green-t1504101109100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1504101109100.html",
+      "image": "watch-assets/store-photos/tissot-pr100-green-t1504101109100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 475,
+        "currency": "CAD",
+        "context": "C$475 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$475 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A green-dial Tissot PR 100 photographed by Lumio, with a smooth steel bezel, date display and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr-100-t1014173305100",
+      "name": "Tissot PR 100 41 mm",
+      "reference": "T1014173305100",
+      "type": "Swiss quartz chronograph",
+      "guide": "watches/tissot-pr-100-t1014173305100.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1014173305100.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "17 Sep 2026",
+      "price": {
+        "amount": 650,
+        "currency": "CAD",
+        "context": "CAD 650",
+        "note": "CAD 650 Official Tissot Canada · PowerDrive quartz · verified 17 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "41 mm",
+          "numeric": 41
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black-PVD Swiss chronograph for people who want a more formal tool watch: slim enough for work, robust enough for real daily use, and deliberately free of hype.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr100-chrono-white-t1504171101100-store",
+      "name": "Tissot PR 100 Chronograph",
+      "reference": "T150.417.11.011.00",
+      "type": "Swiss quartz chronograph",
+      "guide": "watches/tissot-pr100-chrono-white-t1504171101100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1504171101100.html",
+      "image": "watch-assets/store-photos/tissot-pr100-chrono-white-t1504171101100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 550,
+        "currency": "CAD",
+        "context": "C$550 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$550 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A white Tissot PR 100 chronograph photographed by Lumio, with blue registers, date display and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr100-chrono-blue-t1504171104100-store",
+      "name": "Tissot PR 100 Chronograph",
+      "reference": "T150.417.11.041.00",
+      "type": "Swiss quartz chronograph",
+      "guide": "watches/tissot-pr100-chrono-blue-t1504171104100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1504171104100.html",
+      "image": "watch-assets/store-photos/tissot-pr100-chrono-blue-t1504171104100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 550,
+        "currency": "CAD",
+        "context": "C$550 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$550 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A blue Tissot PR 100 chronograph photographed by Lumio, with matching blue registers, date display and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr100-chrono-green-t1504171109100-store",
+      "name": "Tissot PR 100 Chronograph",
+      "reference": "T150.417.11.091.00",
+      "type": "Swiss quartz chronograph",
+      "guide": "watches/tissot-pr100-chrono-green-t1504171109100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1504171109100.html",
+      "image": "watch-assets/store-photos/tissot-pr100-chrono-green-t1504171109100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 550,
+        "currency": "CAD",
+        "context": "C$550 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$550 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A green Tissot PR 100 chronograph photographed by Lumio, with three green subdials, a date display and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-pr516-black-t1494171105100-store",
+      "name": "Tissot PR516 Chronograph",
+      "reference": "T149.417.11.051.00",
+      "type": "Swiss quartz racing chronograph",
+      "guide": "watches/tissot-pr516-black-t1494171105100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1494171105100.html",
+      "image": "watch-assets/store-photos/crops/tissot-pr516-black-t1494171105100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 695,
+        "currency": "CAD",
+        "context": "C$695 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$695 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black-dial Tissot PR516 Chronograph photographed by Lumio, with three contrasting counters, a tachymeter bezel and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-prs516-black-red-t1004171605100-store",
+      "name": "Tissot PRS 516 Chronograph",
+      "reference": "T100.417.16.051.00",
+      "type": "Swiss quartz racing chronograph",
+      "guide": "watches/tissot-prs516-black-red-t1004171605100-store.html",
+      "source": "https://www.tissotwatches.com/en-th/T1004171605100.html",
+      "image": "watch-assets/store-photos/crops/tissot-prs516-black-red-t1004171605100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Archive reference",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Current official Canadian price unavailable",
+        "note": "Tissot's Canadian site did not show an active product or current Canadian retail price for this legacy reference when checked on 24 October 2026. The linked Tissot manufacturer page documents the exact reference and specifications, but it is not a Canadian purchase recommendation. Lumio has not verified an authorized Canadian seller with current stock."
+      },
+      "fields": {
+        "size": {
+          "value": "42 mm",
+          "numeric": 42
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black Tissot PRS 516 Chronograph photographed by Lumio, with red accents, a tachymeter bezel and perforated black leather strap.",
+      "sourceStatus": "High-confidence visual match · legacy reference verified 24 Oct 2026",
+      "availability": "Current availability not verified"
+    },
+    {
+      "id": "tissot-prs516-silver-brown-t1316171603200-store",
+      "name": "Tissot PRS 516 Chronograph",
+      "reference": "T131.617.16.032.00",
+      "type": "Swiss quartz racing chronograph",
+      "guide": "watches/tissot-prs516-silver-brown-t1316171603200-store.html",
+      "source": "https://www.tissotwatches.com/en-gb/T1316171603200.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Archive reference",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Current official Canadian price unavailable",
+        "note": "Tissot's Canadian site did not show an active product or current Canadian retail price for this reference when checked on 24 October 2026. The linked official Tissot page documents the exact reference and specifications, but it is not a Canadian purchase recommendation. Lumio has not verified an authorized Canadian seller with current stock."
+      },
+      "fields": {
+        "size": {
+          "value": "45 mm",
+          "numeric": 45
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Leather",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A silver-dial Tissot PRS 516 Chronograph photographed by Lumio, with black registers, orange timing accents and a perforated brown leather strap.",
+      "sourceStatus": "High-confidence visual match · official reference verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-prx-40-t1374101109100-store",
+      "name": "Tissot PRX",
+      "reference": "T137.410.11.091.00",
+      "type": "Swiss quartz integrated-bracelet watch",
+      "guide": "watches/tissot-prx-40-t1374101109100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1374101109100.html",
+      "image": null,
+      "photoLabel": "Official reference; photographed model under review",
+      "status": "Reference image under review",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 550,
+        "currency": "CAD",
+        "context": "C$550 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$550 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A dark-green Tissot PRX photographed by Lumio, with its defining integrated steel bracelet, slim 1970s-inspired case and date display.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-prx-powermatic-80-t1374071105100",
+      "name": "Tissot PRX Powermatic 80",
+      "reference": "T1374071105100",
+      "type": "Swiss automatic",
+      "guide": "watches/tissot-prx-powermatic-80-t1374071105100.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1374071105100.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "14 Sep 2026",
+      "price": {
+        "amount": 995,
+        "currency": "CAD",
+        "context": "CAD 995",
+        "note": "CAD 995 Amazon Canada availability · Powermatic 80 · checked 14 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "80 h",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 h",
+          "numeric": 80
+        },
+        "water": {
+          "value": "10 bar",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": null,
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A sharp Swiss automatic with an integrated bracelet and a 1970s design language. Built for work, dinners and city weekends.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-seastar-1000-blue-t1204101104100-store",
+      "name": "Tissot Seastar 1000",
+      "reference": "T120.410.11.041.00",
+      "type": "Swiss quartz diver",
+      "guide": "watches/tissot-seastar-1000-blue-t1204101104100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1204101104100.html",
+      "image": "watch-assets/store-photos/crops/tissot-seastar-1000-blue-t1204101104100.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Official specifications checked",
+      "pending": false,
+      "checked": "29 Oct 2026",
+      "price": {
+        "amount": 625,
+        "currency": "CAD",
+        "context": "C$625 official Tissot Canada list price",
+        "note": "Official Canadian product page checked 29 October 2026. Price and stock can change."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": {
+          "value": "9.97 mm",
+          "numeric": 9.97
+        },
+        "weight": {
+          "value": "134 g",
+          "numeric": 134
+        },
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire · anti-reflective coating on both sides",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "300 m / 30 bar",
+          "numeric": 300
+        },
+        "functions": {
+          "value": "Date · battery end-of-life indicator · timing bezel · screw-down crown and caseback · luminous hands",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet · quick-release attachment",
+          "numeric": null
+        },
+        "use": {
+          "value": "A quartz sports watch for active daily wear, with a thinner case and a higher published water-resistance rating.",
+          "numeric": null
+        },
+        "frequency": null,
+        "lugWidth": {
+          "value": "20 mm",
+          "numeric": 20
+        },
+        "clasp": {
+          "value": "Folding safety clasp with push-buttons",
+          "numeric": null
+        }
+      },
+      "lead": "A blue-dial Tissot Seastar 1000 photographed by Lumio, with a black timing bezel, steel bracelet and date display.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-seastar-1000-t1208071105100",
+      "name": "Tissot Seastar 1000",
+      "reference": "T120.807.11.051.00",
+      "type": "Swiss automatic diver",
+      "guide": "watches/tissot-seastar-1000-t1208071105100.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1208071105100.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 995,
+        "currency": "CAD",
+        "context": "CAD 995",
+        "note": "CAD 995 Official Tissot Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": {
+          "value": "12.48 mm",
+          "numeric": 12.48
+        },
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Powermatic 80",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "80 hours",
+          "numeric": 80
+        },
+        "water": {
+          "value": "300 m",
+          "numeric": 300
+        },
+        "functions": {
+          "value": "Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "Use it for holidays, water, active weekends and a casual wardrobe that benefits from a more technical watch.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact automatic diver with 300 m water resistance and 80-hour reserve, built for people who want real capability without a giant case.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-seastar-1000-chrono-black-t1204171705100-store",
+      "name": "Tissot Seastar 1000 Chronograph",
+      "reference": "T120.417.17.051.00",
+      "type": "Swiss quartz dive chronograph",
+      "guide": "watches/tissot-seastar-1000-chrono-black-t1204171705100-store.html",
+      "source": "https://www.tissotwatches.com/en-th/T1204171705100.html",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Archive reference",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": null,
+        "currency": "CAD",
+        "context": "Current official Canadian price unavailable",
+        "note": "Tissot's Canadian site did not show an active product or current Canadian retail price for this legacy reference when checked on 24 October 2026. The linked Tissot manufacturer page documents the exact reference and specifications, but it is not a Canadian purchase recommendation. Lumio has not verified an authorized Canadian seller with current stock."
+      },
+      "fields": {
+        "size": {
+          "value": "45.5 mm",
+          "numeric": 45.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "300 m",
+          "numeric": 300
+        },
+        "functions": {
+          "value": "Chronograph · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Rubber / silicone",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black Tissot Seastar 1000 Chronograph photographed by Lumio, with a black dive bezel, three-register dial and black rubber strap.",
+      "sourceStatus": "High-confidence visual match · legacy reference verified 24 Oct 2026",
+      "availability": "Current availability not verified"
+    },
+    {
+      "id": "tissot-seastar-1000-gmt-t1208521105100-store",
+      "name": "Tissot Seastar 1000 GMT",
+      "reference": "T120.852.11.051.00",
+      "type": "Swiss quartz GMT dive watch",
+      "guide": "watches/tissot-seastar-1000-gmt-t1208521105100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1208521105100.html",
+      "image": "watch-assets/store-photos/crops/tissot-seastar-1000-gmt-t1208521105100-original.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 675,
+        "currency": "CAD",
+        "context": "C$675 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$675 on 24 October 2026. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "40 mm",
+          "numeric": 40
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": null,
+        "reserve": null,
+        "water": {
+          "value": "300 m",
+          "numeric": 300
+        },
+        "functions": {
+          "value": "Second time zone / GMT · Date",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black-dial Tissot Seastar photographed by Lumio, with a black-and-green 24-hour bezel, red GMT hand and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tissot-supersport-chrono-t1256171105100-store",
+      "name": "Tissot Supersport Chrono",
+      "reference": "T125.617.11.051.00",
+      "type": "Swiss quartz sports chronograph",
+      "guide": "watches/tissot-supersport-chrono-t1256171105100-store.html",
+      "source": "https://www.tissotwatches.com/en-ca/T1256171105100.html",
+      "image": "watch-assets/store-photos/crops/tissot-supersport-chrono-black-t1256171105100-original.jpg",
+      "photoLabel": "Original Lumio photograph",
+      "status": "Visual catalogue match",
+      "pending": false,
+      "checked": "24 Oct 2026",
+      "price": {
+        "amount": 675,
+        "currency": "CAD",
+        "context": "C$675 official Tissot Canada price",
+        "note": "Tissot Canada listed this reference at C$675 on 24 October 2026 and showed it available for online purchase. Price and availability can change. This is a direct manufacturer page; Lumio does not claim a commission from this outbound link."
+      },
+      "fields": {
+        "size": {
+          "value": "45.5 mm",
+          "numeric": 45.5
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "316L stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Quartz",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "Quartz chrono",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": null,
+        "frequency": null
+      },
+      "lead": "A black Tissot Supersport Chrono photographed by Lumio, with orange timing accents, three contrasting registers, tachymeter bezel and steel bracelet.",
+      "sourceStatus": "High-confidence visual match · official Canada price verified 24 Oct 2026",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tudor-black-bay-58-m7939a1a0nu-0001",
+      "name": "TUDOR Black Bay 58",
+      "reference": "M7939A1A0NU-0001",
+      "type": "Swiss automatic diver",
+      "guide": "watches/tudor-black-bay-58-m7939a1a0nu-0001.html",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939a1a0nu-0001",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 5350,
+        "currency": "CAD",
+        "context": "CAD 5,350",
+        "note": "CAD 5,350 Official TUDOR Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "MT5400-U",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "65 hours",
+          "numeric": 65
+        },
+        "water": {
+          "value": "200 m",
+          "numeric": 200
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is a natural choice for daily wear, travel, water, weekends and casual offices.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A compact modern diver with a calm 39 mm silhouette, heritage cues and a technical movement that makes it much more than a vintage-looking watch.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "tudor-ranger-m79950-0001",
+      "name": "TUDOR Ranger",
+      "reference": "M79950-0001",
+      "type": "Swiss automatic field watch",
+      "guide": "watches/tudor-ranger-m79950-0001.html",
+      "source": "https://www.tudorwatch.com/en/watches/ranger/m79950-0001",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 4025,
+        "currency": "CAD",
+        "context": "CAD 4,025",
+        "note": "CAD 4,025 Official TUDOR Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "39 mm",
+          "numeric": 39
+        },
+        "thickness": {
+          "value": "12 mm",
+          "numeric": 12
+        },
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": {
+          "value": "Sapphire",
+          "numeric": null
+        },
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "MT5402",
+          "numeric": null
+        },
+        "reserve": {
+          "value": "70 hours",
+          "numeric": 70
+        },
+        "water": {
+          "value": "100 m",
+          "numeric": 100
+        },
+        "functions": null,
+        "strap": {
+          "value": "Steel bracelet",
+          "numeric": null
+        },
+        "use": {
+          "value": "It is at home with denim, outerwear, travel and informal work settings.",
+          "numeric": null
+        },
+        "frequency": null
+      },
+      "lead": "A purpose-built Swiss field watch whose calm black dial and COSC manufacture movement make it capable without becoming costume-like.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    },
+    {
+      "id": "zenith-chronomaster-revival-a384",
+      "name": "Zenith Chronomaster Revival",
+      "reference": "El Primero A384",
+      "type": "Swiss automatic chronograph",
+      "guide": "watches/zenith-chronomaster-revival-a384.html",
+      "source": "https://www.zenith-watches.com/en_ca/products/chronomaster",
+      "image": null,
+      "photoLabel": "Model photograph not available",
+      "status": "Catalogue reference",
+      "pending": false,
+      "checked": "18 Sep 2026",
+      "price": {
+        "amount": 13600,
+        "currency": "CAD",
+        "context": "CAD 13,600",
+        "note": "CAD 13,600 Official Zenith Canada · verified 18 Sep 2026"
+      },
+      "fields": {
+        "size": {
+          "value": "37 mm",
+          "numeric": 37
+        },
+        "thickness": null,
+        "weight": null,
+        "material": {
+          "value": "Stainless steel",
+          "numeric": null
+        },
+        "crystal": null,
+        "movement": {
+          "value": "Automatic mechanical",
+          "numeric": null
+        },
+        "calibre": {
+          "value": "El Primero",
+          "numeric": null
+        },
+        "reserve": null,
+        "water": null,
+        "functions": {
+          "value": "Chronograph",
+          "numeric": null
+        },
+        "strap": null,
+        "use": {
+          "value": "Wear it when you want a vintage-informed piece that still feels considered: creative work, dinners, travel, collector meetups and relaxed tailoring.",
+          "numeric": null
+        },
+        "frequency": {
+          "value": "5 Hz",
+          "numeric": null
+        }
+      },
+      "lead": "A compact chronograph that brings Zenith's 1969 El Primero story into a modern luxury collection without losing its original character.",
+      "sourceStatus": "",
+      "availability": "Check current availability with seller"
+    }
+  ]
+}

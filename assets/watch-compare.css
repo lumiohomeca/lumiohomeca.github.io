@@ -1,0 +1,150 @@
+/* Two-watch comparisons, presented in Lumio's shared editorial identity. */
+body.lumio-compare [hidden]{display:none!important}
+body.lumio-compare .top{display:flex;align-items:center;justify-content:space-between;gap:24px}
+body.lumio-compare .compare-back{font:400 10px/1.6 var(--l-sans);letter-spacing:.11em;text-transform:uppercase;text-decoration:none;color:var(--muted)}
+body.lumio-compare .compare-back:hover{color:var(--paper)}
+body.lumio-compare main.shell{padding-bottom:70px}
+body.lumio-compare .compare-hero{padding:76px 0 42px;max-width:920px}
+body.lumio-compare .compare-hero h1{font:400 clamp(52px,6.8vw,92px)/1.01 var(--l-serif);letter-spacing:-.035em;margin:18px 0 25px}
+body.lumio-compare .compare-hero p{max-width:710px;color:var(--muted);font:400 15px/1.85 var(--l-sans);margin:0}
+body.lumio-compare .compare-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px 32px;padding:30px 32px;background:#1c1d19;border:1px solid var(--line)}
+body.lumio-compare .compare-picker{min-width:0}
+body.lumio-compare .compare-picker label,
+body.lumio-compare label.compare-picker{display:block;color:var(--gold);font:500 10px/1.6 var(--l-sans);letter-spacing:.14em;text-transform:uppercase}
+body.lumio-compare .compare-picker select{display:block;width:100%;max-width:100%;min-height:54px;margin-top:10px;padding:14px 36px 14px 15px;color:var(--paper);background:#141413;border:1px solid #b59a7045;border-radius:0;font:400 14px/1.5 var(--l-sans);letter-spacing:0;text-transform:none;color-scheme:dark;cursor:pointer}
+body.lumio-compare .compare-picker select:hover{border-color:#b59a7085}
+body.lumio-compare .compare-search{grid-column:1/-1;min-width:0;color:var(--muted);font:400 12px/1.65 var(--l-sans)}
+body.lumio-compare .compare-search input,
+body.lumio-compare input.compare-search{display:block;width:100%;min-height:48px;background:#141413;color:var(--paper);border:1px solid var(--line);border-radius:0;padding:13px 15px;font:400 13px/1.5 var(--l-sans);letter-spacing:0;margin-top:9px}
+body.lumio-compare input.compare-search{margin-top:0}
+body.lumio-compare .compare-search input::placeholder,
+body.lumio-compare input.compare-search::placeholder{color:#99958c;opacity:1}
+body.lumio-compare .compare-count{color:var(--muted);font:400 11px/1.7 var(--l-sans);margin:15px 0 0}
+body.lumio-compare .compare-watches{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;margin:42px 0 35px;align-items:stretch}
+body.lumio-compare .compare-card{min-width:0;display:flex;flex-direction:column;background:transparent;border:0;padding:0}
+body.lumio-compare .compare-photo{display:grid;place-items:center;position:relative;aspect-ratio:5/4;min-height:0;overflow:hidden;background:#1b1c19;border:1px solid var(--line);margin-bottom:25px}
+body.lumio-compare .compare-photo img{display:block;position:absolute;inset:0;width:100%;height:100%;min-width:0;min-height:0;object-fit:contain;object-position:center;padding:25px}
+body.lumio-compare .compare-photo-placeholder img{padding:20%;opacity:.65}
+body.lumio-compare .compare-photo-label{position:absolute;left:0;right:0;bottom:0;color:#c9c2b5;background:#141413ed;padding:10px 14px;font:400 8px/1.6 var(--l-sans);letter-spacing:.08em;text-transform:uppercase}
+body.lumio-compare .compare-name{font:400 clamp(30px,3.3vw,44px)/1.1 var(--l-serif);letter-spacing:-.02em;margin:12px 0 7px;overflow-wrap:anywhere;text-wrap:balance}
+body.lumio-compare .compare-ref{color:var(--muted);font:400 12px/1.7 var(--l-sans);letter-spacing:.035em;margin:0 0 20px;overflow-wrap:anywhere}
+body.lumio-compare .compare-track{color:var(--gold);font:500 9px/1.65 var(--l-sans);letter-spacing:.13em;text-transform:uppercase;margin:0 0 5px}
+body.lumio-compare .compare-price{font:400 clamp(33px,3.5vw,47px)/1.08 var(--l-serif);color:#d7c4a1;letter-spacing:-.025em;margin:0 0 8px;overflow-wrap:anywhere}
+body.lumio-compare .compare-price-note{font:400 11px/1.8 var(--l-sans);color:var(--muted);margin:0 0 22px}
+body.lumio-compare .compare-price-basis{display:block;margin-top:9px}
+body.lumio-compare .compare-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:auto;padding-top:19px;border-top:1px solid var(--line)}
+body.lumio-compare .compare-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:42px;border:1px solid var(--line);padding:11px 16px;font:500 9px/1.5 var(--l-sans);letter-spacing:.09em;text-decoration:none;text-transform:uppercase;color:var(--paper);transition:background .2s,border-color .2s}
+body.lumio-compare .compare-actions a:hover{background:#25261f;border-color:var(--gold)}
+body.lumio-compare .compare-toolbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:22px 0;border-block:1px solid var(--line);margin-bottom:30px}
+body.lumio-compare .compare-toolbar label{display:inline-flex;align-items:center;gap:10px;margin-right:auto;color:var(--paper);font:400 12px/1.8 var(--l-sans);cursor:pointer}
+body.lumio-compare .compare-toolbar input[type=checkbox]{width:17px;height:17px;accent-color:var(--gold);flex-shrink:0;cursor:pointer}
+body.lumio-compare .compare-toolbar button{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:11px 16px;background:transparent;border:1px solid #b59a7060;border-radius:0;color:var(--paper);font:500 9px/1.6 var(--l-sans);letter-spacing:.09em;text-transform:uppercase;cursor:pointer;transition:background .2s,border-color .2s}
+body.lumio-compare .compare-toolbar button:hover{background:#28291f;border-color:var(--gold)}
+body.lumio-compare .compare-toolbar button:disabled{opacity:.5;cursor:default}
+body.lumio-compare #compare-status{font:400 12px/1.8 var(--l-sans);color:var(--gold);min-height:22px;margin:10px 0}
+body.lumio-compare .compare-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:28px 0 38px}
+body.lumio-compare .compare-summary article{min-width:0;padding:25px 28px;border:1px solid var(--line);border-top:2px solid var(--gold);background:#1c1d19}
+body.lumio-compare .compare-summary h2,
+body.lumio-compare .compare-summary h3{font:400 29px/1.1 var(--l-serif);margin:9px 0 15px}
+body.lumio-compare .compare-summary p{font:400 13px/1.85 var(--l-sans);color:var(--muted);margin:0 0 8px}
+body.lumio-compare .compare-summary p:last-child{margin-bottom:0}
+body.lumio-compare .compare-summary ul{padding-left:18px;margin:14px 0 0;color:var(--muted);font:400 12px/1.9 var(--l-sans)}
+body.lumio-compare .compare-summary strong{color:var(--paper);font-weight:500}
+body.lumio-compare .compare-table-wrap{width:100%;max-width:100%;overflow-x:auto;overscroll-behavior-inline:contain;border:1px solid var(--line);scrollbar-color:#6b624f #191a17;margin:0 0 30px}
+body.lumio-compare .compare-scroll-hint{display:none}
+body.lumio-compare #comparison-table{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed;font:400 13px/1.8 var(--l-sans);color:var(--paper)}
+body.lumio-compare #comparison-table caption{text-align:left;padding:24px 26px;background:#1c1d19;border-bottom:1px solid var(--line);font:400 28px/1.2 var(--l-serif);color:var(--paper)}
+body.lumio-compare #comparison-table th,
+body.lumio-compare #comparison-table td{vertical-align:top;text-align:left;padding:19px 25px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
+body.lumio-compare #comparison-table thead th{color:var(--paper);background:#24251f;font:400 23px/1.2 var(--l-serif);padding-block:24px;border-bottom:1px solid #b59a7060}
+body.lumio-compare #comparison-table th:first-child{width:24%}
+body.lumio-compare #comparison-table small{display:block;margin-top:7px;color:var(--muted);font:400 10px/1.7 var(--l-sans);letter-spacing:0}
+body.lumio-compare #comparison-table thead .muted{color:var(--gold);font:500 9px/1.6 var(--l-sans);letter-spacing:.12em}
+body.lumio-compare #share-fallback{margin:0 0 24px;color:var(--muted);font:400 12px/1.8 var(--l-sans)}
+body.lumio-compare #comparison-link{display:block;width:100%;min-width:0;margin-top:9px;padding:13px;background:var(--ink);color:var(--paper);border:1px solid var(--line);font:400 12px/1.8 var(--l-sans)}
+body.lumio-compare :is(input,select,button,a,.compare-table-wrap):focus-visible{outline:2px solid var(--gold);outline-offset:4px}
+body.lumio-compare #comparison-table tbody th[scope=row]{color:#bbb4a6;font:400 12px/1.8 var(--l-sans);background:#191a17}
+body.lumio-compare #comparison-table td{background:#161714;border-left:1px solid #b59a701c}
+body.lumio-compare #comparison-table td strong{display:block;font:500 14px/1.65 var(--l-sans);color:var(--paper)}
+body.lumio-compare #comparison-table td .muted{display:block;color:var(--muted);font:400 11px/1.8 var(--l-sans);margin-top:5px}
+body.lumio-compare #comparison-table td .missing,
+body.lumio-compare #comparison-table td.missing{color:#9d998f;font:400 12px/1.8 var(--l-sans)}
+body.lumio-compare #comparison-table td a{color:#d5c2a0;text-decoration:underline;text-underline-offset:4px}
+body.lumio-compare #comparison-table .compare-section th{background:#24251f;color:var(--gold);font:500 9px/1.7 var(--l-sans);letter-spacing:.14em;text-transform:uppercase;padding-block:15px;border-bottom:1px solid #b59a7040}
+body.lumio-compare #comparison-table tbody tr:last-child>*{border-bottom:0}
+body.lumio-compare #comparison-table tr[hidden]{display:none}
+body.lumio-compare .compare-notice{padding:24px 26px;border:1px solid var(--line);background:#1c1d19;color:var(--muted);font:400 12px/1.85 var(--l-sans);margin:28px 0 35px}
+body.lumio-compare .compare-notice p{margin:0 0 10px}
+body.lumio-compare .compare-notice p:last-child{margin-bottom:0}
+body.lumio-compare .compare-notice strong{color:var(--paper);font-weight:500}
+body.lumio-compare .compare-empty{border:1px solid var(--line);background:#1c1d19;color:var(--muted);padding:32px;font:400 14px/1.85 var(--l-sans)}
+body.lumio-compare .compare-empty[hidden],
+body.lumio-compare .compare-watches[hidden],
+body.lumio-compare .compare-summary[hidden],
+body.lumio-compare .compare-table-wrap[hidden]{display:none}
+
+@media(max-width:1000px){
+  body.lumio-compare .compare-controls{gap:22px;padding:25px}
+  body.lumio-compare .compare-watches{gap:25px}
+  body.lumio-compare #comparison-table th,
+  body.lumio-compare #comparison-table td{padding-inline:18px}
+  body.lumio-compare #comparison-table th:first-child{width:25%}
+}
+@media(max-width:780px){
+  body.lumio-compare .top{align-items:center;gap:15px}
+  body.lumio-compare .compare-back{font-size:8px;letter-spacing:.08em}
+  body.lumio-compare .compare-hero{padding:45px 0 30px}
+  body.lumio-compare .compare-hero h1{font-size:clamp(43px,10vw,65px);line-height:1.04;margin:18px 0 22px}
+  body.lumio-compare .compare-hero p{font-size:13px;line-height:1.85}
+  body.lumio-compare .compare-controls{padding:21px;gap:20px;grid-template-columns:1fr}
+  body.lumio-compare .compare-picker select{font-size:13px;min-height:50px}
+  body.lumio-compare .compare-watches{gap:18px;margin-top:32px}
+  body.lumio-compare .compare-photo{aspect-ratio:4/5;margin-bottom:19px}
+  body.lumio-compare .compare-photo img{padding:13px}
+  body.lumio-compare .compare-name{font-size:clamp(24px,4.5vw,34px);line-height:1.08;margin-top:10px}
+  body.lumio-compare .compare-ref{font-size:10px;margin-bottom:16px;line-height:1.75}
+  body.lumio-compare .compare-price{font-size:clamp(29px,5vw,39px)}
+  body.lumio-compare .compare-price-note{font-size:10px;line-height:1.8}
+  body.lumio-compare .compare-photo-label{padding:8px 9px;font-size:7px;letter-spacing:.05em;line-height:1.6}
+  body.lumio-compare .compare-track{font-size:8px;letter-spacing:.09em}
+  body.lumio-compare .compare-actions{display:grid;grid-template-columns:1fr;gap:8px;padding-top:16px}
+  body.lumio-compare .compare-actions a{padding:10px;min-height:42px;font-size:8px;letter-spacing:.065em;text-align:center}
+  body.lumio-compare .compare-toolbar{gap:10px;margin-bottom:24px;padding-block:18px}
+  body.lumio-compare .compare-toolbar label{width:100%;margin:0 0 4px;font-size:12px}
+  body.lumio-compare .compare-toolbar button{flex:1;min-height:44px;padding:10px 12px;font-size:8px}
+  body.lumio-compare .compare-summary{grid-template-columns:1fr;gap:16px;margin:24px 0 28px}
+  body.lumio-compare .compare-summary article{padding:20px 18px}
+  body.lumio-compare .compare-summary h2,
+  body.lumio-compare .compare-summary h3{font-size:26px}
+  body.lumio-compare .compare-summary p,
+  body.lumio-compare .compare-summary ul{font-size:11px;line-height:1.85}
+  body.lumio-compare #comparison-table{min-width:590px}
+  body.lumio-compare .compare-scroll-hint{display:block;color:var(--gold);font:400 11px/1.8 var(--l-sans);margin:0 0 15px}
+  body.lumio-compare #comparison-table caption{padding:20px;font-size:26px}
+  body.lumio-compare #comparison-table th,
+  body.lumio-compare #comparison-table td{padding:16px 17px}
+  body.lumio-compare #comparison-table th:first-child{width:145px}
+  body.lumio-compare #comparison-table thead th{font-size:21px;padding-block:20px}
+  body.lumio-compare #comparison-table tbody th[scope=row]{position:sticky;left:0;z-index:1;background:#1b1c19;box-shadow:1px 0 #b59a7040;font-size:11px}
+  body.lumio-compare #comparison-table td strong{font-size:13px}
+  body.lumio-compare #comparison-table td .muted{font-size:10px}
+  body.lumio-compare #comparison-table .compare-section th{padding-block:13px;font-size:8px}
+  body.lumio-compare .compare-notice{padding:21px;font-size:11px}
+}
+@media(max-width:430px){
+  body.lumio-compare .compare-watches{gap:14px}
+  body.lumio-compare .compare-name{font-size:25px}
+  body.lumio-compare .compare-price{font-size:30px}
+  body.lumio-compare .compare-summary{grid-template-columns:1fr}
+  body.lumio-compare .compare-summary article{padding:22px}
+  body.lumio-compare .compare-summary h2,
+  body.lumio-compare .compare-summary h3{font-size:28px}
+  body.lumio-compare .compare-summary p,
+  body.lumio-compare .compare-summary ul{font-size:12px}
+  body.lumio-compare #comparison-table{min-width:550px}
+  body.lumio-compare #comparison-table th:first-child{width:125px}
+}
+@media(prefers-reduced-motion:reduce){
+  body.lumio-compare .compare-actions a,
+  body.lumio-compare .compare-toolbar button{transition:none}
+}

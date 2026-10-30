@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Compare two watches | Lumio Watches</title>
+  <meta name="description" content="Compare two watches from the Lumio catalogue: Canadian price context, proportions, movements, materials and practical wearing considerations.">
+  <link rel="canonical" href="https://lumiohomeca.github.io/watch-compare.html">
+  <link rel="icon" type="image/svg+xml" href="assets/lumio-favicon.svg">
+  <link rel="preload" href="assets/fonts/cormorant-garamond-regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="assets/fonts/dm-sans-regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="assets/lumio-luxe.css?v=20261028">
+  <link rel="stylesheet" href="assets/watch-compare.css?v=20261029">
+  <script src="assets/lumio-luxe.js?v=20261028" defer></script>
+  <script src="assets/watch-compare.js?v=20261029" type="module"></script>
+  <script src="analytics.js" defer></script>
+</head>
+<body class="lumio-luxe lumio-editorial lumio-compare">
+  <header class="shell top"><a href="index.html">← Lumio Watches</a><a class="compare-back" href="index.html#index">Watch index →</a></header>
+  <main class="shell">
+    <section class="compare-hero"><div class="eyebrow">The Lumio comparison</div><h1>Two watches.<br>A clearer choice.</h1><p>Compare the details that affect how a watch fits, runs and suits your life. Choose any two catalogue records; every price keeps its source context and missing facts stay visible.</p></section>
+    <form class="compare-controls" id="compare-form">
+      <div class="compare-search"><label for="watch-search">Search the catalogue</label><input id="watch-search" type="search" placeholder="Brand, model or reference" autocomplete="off"></div>
+      <div class="compare-picker"><label for="watch-a">Watch A</label><select id="watch-a" required disabled><option>Loading catalogue…</option></select></div>
+      <div class="compare-picker"><label for="watch-b">Watch B</label><select id="watch-b" required disabled><option>Loading catalogue…</option></select></div>
+    </form>
+    <p class="compare-count" id="catalogue-count" role="status">Loading the Lumio catalogue…</p>
+    <p class="compare-empty" id="compare-error" hidden></p>
+    <noscript><p class="compare-notice">Enable JavaScript to select two watches. You can still <a href="index.html#index">browse every existing watch guide</a>.</p></noscript>
+    <section class="compare-watches" id="compare-watches" aria-label="Selected watches"></section>
+    <div class="compare-toolbar" id="compare-toolbar" hidden>
+      <label><input type="checkbox" id="differences"> Show differences only</label>
+      <button id="swap" type="button">Swap watches ↔</button>
+      <button id="share" type="button">Copy comparison link ↗</button>
+    </div>
+    <p id="compare-status" class="compare-count" role="status" aria-live="polite"></p>
+    <div id="share-fallback" hidden><label for="comparison-link">Copy this comparison address</label><input id="comparison-link" readonly type="url"></div>
+    <section class="compare-summary" id="comparison-summary" aria-label="The main differences"></section>
+    <p class="compare-scroll-hint">Swipe the table left or right to see both watches. The detail labels stay in place.</p>
+    <div class="compare-table-wrap" id="compare-table-wrap" tabindex="0" aria-label="Watch specifications; scroll horizontally on smaller screens" hidden>
+      <table id="comparison-table"><caption>Side-by-side specifications and recorded Canadian price context</caption><thead id="comparison-head"></thead><tbody id="comparison-body"></tbody></table>
+    </div>
+    <p class="compare-notice">A comparison is only as complete as its sources. “Not verified” means Lumio has no documented value in this catalogue; it does not mean the watch lacks that feature. Photographic records with an unconfirmed reference are clearly marked. Prices are dated records, not market valuations or guaranteed stock. A specification source can differ from the retailer behind a recorded price; read its price note and full guide. <a href="buying-with-confidence.html">Read our buying policy →</a></p>
+  </main>
+  <footer class="shell footer">LUMIO WATCHES · Independent watch discovery · Compare the reference, then choose for your life.</footer>
+</body>
+</html>
