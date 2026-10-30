@@ -43,20 +43,36 @@ const guides = {
 };
 const key = location.pathname.split('/').pop().replace('.html','');
 const item = guides[key];
-const analytics = document.createElement('script');
-analytics.src = '../analytics.js';
-analytics.defer = true;
-document.head.appendChild(analytics);
+if (!document.querySelector('script[src="../analytics.js"]')) {
+  const analytics = document.createElement('script');
+  analytics.src = '../analytics.js';
+  analytics.defer = true;
+  document.head.appendChild(analytics);
+}
 document.title = item ? `${item.name} ${item.reference} | Lumio Watches` : 'Watch guide | Lumio Watches';
 if (item) {
-  const description = document.createElement('meta');
-  description.name = 'description';
-  description.content = `${item.name} ${item.reference}: independent Lumio guide with Canadian reference price, specifications, context and buying considerations.`;
-  document.head.appendChild(description);
-  const canonical = document.createElement('link');
-  canonical.rel = 'canonical';
+  const setMeta = (attribute, name, content) => {
+    let meta = document.querySelector(`meta[${attribute}="${name}"]`);
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute(attribute, name);
+      document.head.appendChild(meta);
+    }
+    meta.content = content;
+    return meta;
+  };
+  const description = setMeta('name', 'description', `${item.name} ${item.reference}: independent Lumio guide with Canadian reference price, specifications, context and buying considerations.`);
+  let canonical = document.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.rel = 'canonical';
+    document.head.appendChild(canonical);
+  }
   canonical.href = location.href.split('?')[0];
-  document.head.appendChild(canonical);
+  setMeta('property', 'og:type', 'article');
+  setMeta('property', 'og:title', document.title);
+  setMeta('property', 'og:description', description.content);
+  setMeta('property', 'og:url', canonical.href);
 
   // Give search engines a clear, machine-readable description of this
   // editorial guide. This is intentionally not a merchant listing: Lumio
