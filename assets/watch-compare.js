@@ -1,14 +1,16 @@
-import {resolvePair,money,comparisonRows,summaries} from './watch-compare-core.mjs';
+import {resolvePair,money,comparisonRows,summaries,matchesCatalogueWatch} from './watch-compare-core.mjs?v=20261030-buttons';
 const $=selector=>document.querySelector(selector);
 const escape=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 const safeSource=source=>{try{return new URL(source).protocol==='https:'?source:null;}catch{return null;}};
 let catalogue=[],pair=[];
 const label=watch=>`${watch.name} · ${watch.reference}`;
-function fillPickers(){
+function fillPickers(changedIndex){
   if(pair.length!==2)return;
   const query=$('#watch-search').value.trim().toLocaleLowerCase('en-CA');
-  const matches=catalogue.filter(watch=>`${watch.name} ${watch.reference} ${watch.type}`.toLocaleLowerCase('en-CA').includes(query));
+  const matches=catalogue.filter(watch=>matchesCatalogueWatch(watch,query));
   ['a','b'].forEach((side,index)=>{
+    // Keep the active native menu intact while the visitor commits a selection.
+    if(index===changedIndex)return;
     const select=$(`#watch-${side}`),current=pair[index],other=pair[1-index];
     const available=matches.filter(watch=>watch.id!==other.id);
     if(!available.some(watch=>watch.id===current.id))available.unshift(current);
@@ -21,7 +23,7 @@ function fillPickers(){
     }
     select.value=current.id;select.disabled=false;
   });
-  $('#catalogue-count').textContent=query?`${matches.length} matching record${matches.length===1?'':'s'} · your current selections stay available.`:`${catalogue.length} catalogue records · including ${catalogue.filter(watch=>watch.pending).length} clearly marked identification-pending records.`;
+  $('#catalogue-count').textContent=query?`${matches.length} matching record${matches.length===1?'':'s'}. Choose a result in Watch A or Watch B; your current selections stay available.`:`${catalogue.length} catalogue records · including ${catalogue.filter(watch=>watch.pending).length} clearly marked identification-pending records.`;
 }
 function renderCards(){
   $('#compare-watches').innerHTML=pair.map(watch=>{
@@ -41,8 +43,8 @@ function renderTable(){
   const differences=groups.flatMap(group=>group.rows).filter(row=>!row.same).length;
   $('#compare-status').textContent=onlyDifferences?`${differences} differing fields shown. Shared values and shared gaps are hidden.`:`Comparing ${pair[0].name} and ${pair[1].name}.`;
 }
-function render(){
-  fillPickers();renderCards();renderTable();
+function render(changedIndex){
+  fillPickers(changedIndex);renderCards();renderTable();
   $('#comparison-summary').innerHTML=summaries(...pair).map(summary=>`<article><div class="eyebrow">${escape(summary.label)}</div><h2>${escape(summary.title)}</h2><p>${escape(summary.detail)}</p></article>`).join('');
   const url=new URL(location.href);url.searchParams.set('a',pair[0].id);url.searchParams.set('b',pair[1].id);history.replaceState(null,'',url);
   $('#comparison-link').value=url.href;$('#share-fallback').hidden=true;
@@ -50,9 +52,9 @@ function render(){
 }
 $('#compare-form').addEventListener('submit',event=>event.preventDefault());
 $('#watch-search').addEventListener('input',()=>fillPickers());
-['a','b'].forEach((side,index)=>$(`#watch-${side}`).addEventListener('change',event=>{pair[index]=catalogue.find(watch=>watch.id===event.target.value);render();}));
+['a','b'].forEach((side,index)=>$(`#watch-${side}`).addEventListener('change',event=>{const selected=catalogue.find(watch=>watch.id===event.target.value);if(!selected||selected.id===pair[1-index].id)return;pair[index]=selected;render(index);}));
 $('#differences').addEventListener('change',renderTable);
-$('#swap').addEventListener('click',()=>{pair.reverse();render();});
+$('#swap').addEventListener('click',()=>{pair.reverse();render();$('#compare-status').textContent=`Watches swapped. Watch A: ${label(pair[0])}. Watch B: ${label(pair[1])}.`;});
 $('#share').addEventListener('click',async()=>{
   try{await navigator.clipboard.writeText($('#comparison-link').value);$('#compare-status').textContent='Comparison link copied.';}
   catch{$('#share-fallback').hidden=false;$('#comparison-link').focus();$('#comparison-link').select();$('#compare-status').textContent='Select and copy the comparison address below.';}

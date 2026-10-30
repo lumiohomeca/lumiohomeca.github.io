@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
-import {DEFAULT_PAIR, money, resolvePair, comparisonRows, summaries} from '../assets/watch-compare-core.mjs';
+import {DEFAULT_PAIR, money, resolvePair, comparisonRows, summaries, matchesCatalogueWatch} from '../assets/watch-compare-core.mjs';
 
 const root=path.resolve(import.meta.dirname,'..');
 const {watches}=JSON.parse(fs.readFileSync(path.join(root,'assets/watch-catalogue.json'),'utf8'));
@@ -158,4 +158,33 @@ test('case and bracelet materials do not come from unrelated trim or generic bra
 test('jewel counts are not movement names and multiword calibre names remain intact',()=>{
   assert.equal(byId('caravelle-sea-hunter-44b130').fields.calibre,null);
   assert.equal(byId('cartier-santos-chronograph-wssa0017').fields.calibre.value,'1904 CH MC');
+});
+
+test('catalogue search accepts official references with or without punctuation',()=>{
+  for(const [id,queries] of [
+    ['tissot-store-black-powermatic',['T1274071105100','t127.407.11.051.00','T127-407-11-051-00']],
+    ['mido-multifort-tv-big-date-m0495261109100-store',['M0495261109100','m049.526.11.091.00']],
+    ['citizen-promaster-dive-bn0191-55l',['BN019155L','bn0191-55l']]
+  ]){
+    const watch=byId(id);
+    assert.ok(watch,`${id}: search fixture missing`);
+    for(const query of queries)assert.equal(matchesCatalogueWatch(watch,query),true,query);
+  }
+  assert.equal(watches.filter(watch=>matchesCatalogueWatch(watch,'T1274071105100')).length,1);
+});
+
+test('catalogue search matches case, accents and reordered words across model fields',()=>{
+  assert.equal(matchesCatalogueWatch(defaults[0],'GENTLEMAN tissot'),true);
+  assert.equal(matchesCatalogueWatch(defaults[0],'automatic   GENTLEMAN'),true);
+  const francaise=watches.find(watch=>watch.name.includes('Française'));
+  assert.ok(francaise);
+  assert.equal(matchesCatalogueWatch(francaise,'francaise CARTIER'),true);
+  assert.equal(matchesCatalogueWatch(byId('seiko-presage-srpl71'),'style60s seiko'),true);
+});
+
+test('empty catalogue search keeps all records and every nonempty term must match',()=>{
+  for(const query of ['','   '])assert.ok(watches.every(watch=>matchesCatalogueWatch(watch,query)));
+  assert.equal(matchesCatalogueWatch(defaults[0],'tissot nonexistentmodel'),false);
+  assert.equal(matchesCatalogueWatch(defaults[0],'cartier gentleman'),false);
+  assert.equal(watches.filter(watch=>matchesCatalogueWatch(watch,'no-such-reference-123456789')).length,0);
 });

@@ -1,5 +1,11 @@
 export const DEFAULT_PAIR=['tissot-store-black-powermatic','tissot-seastar-1000-blue-t1204101104100-store'];
 export const money=value=>Number.isFinite(value)?`C$${new Intl.NumberFormat('en-CA',{maximumFractionDigits:2}).format(value)}`:'Not verified';
+const searchKey=value=>String(value??'').normalize('NFKD').replace(/\p{M}/gu,'').toLocaleLowerCase('en-CA').replace(/[^a-z0-9]/g,'');
+export function matchesCatalogueWatch(watch,query){
+  const haystack=searchKey(`${watch.name} ${watch.reference} ${watch.type}`);
+  const terms=String(query??'').trim().split(/\s+/).map(searchKey).filter(Boolean);
+  return terms.every(term=>haystack.includes(term));
+}
 export function resolvePair(watches,a,b){
   const find=id=>watches.find(item=>item.id===id||item.aliases?.includes(id));
   const first=find(a)||find(DEFAULT_PAIR[0])||watches[0];
